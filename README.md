@@ -11,9 +11,9 @@
 </a>
 
 <p>
-  <a href="https://paulosdantas.adv.br"><img src="https://img.shields.io/badge/paulosdantas.adv.br-0ADB7A?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website" /></a>
+  <a href="https://paulosdantas.adv.br"><img src="https://img.shields.io/badge/paulosdantas.adv.br-111111?style=for-the-badge&logo=googlechrome&logoColor=0ADB7A" alt="Website" /></a>
   <img src="https://img.shields.io/badge/Natal%20%C2%B7%20Brasil-111111?style=for-the-badge&logo=googlemaps&logoColor=0ADB7A" alt="Natal, Brasil" />
-  <img src="https://komarev.com/ghpvc/?username=dantaspaulo&style=for-the-badge&color=0ADB7A&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=dantaspaulo&style=for-the-badge&color=111111&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 </div>
@@ -105,12 +105,12 @@ em projetos de terceiros.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dantaspaulo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=0ADB7A&icon_color=10A861&text_color=C9D1D9" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantaspaulo&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=0ADB7A&text_color=C9D1D9" alt="Top Languages" />
+<img src="./profile-summary-card-output/vue_dark/0-profile-details.svg" width="82%" alt="Resumo do perfil" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=dantaspaulo&hide_border=true&background=0D1117&stroke=0ADB7A&ring=10A861&fire=0ADB7A&currStreakLabel=0ADB7A&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" />
+<img src="./profile-summary-card-output/vue_dark/1-repos-per-language.svg" height="200" alt="Linguagens por repositório" />
+<img src="./profile-summary-card-output/vue_dark/4-productive-time.svg" height="200" alt="Horário produtivo" />
 
 </div>
 
@@ -120,9 +120,9 @@ em projetos de terceiros.
 
 <div align="center">
 
-<a href="https://paulosdantas.adv.br"><img src="https://img.shields.io/badge/Website-0ADB7A?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website" /></a>
+<a href="https://paulosdantas.adv.br"><img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=googlechrome&logoColor=0ADB7A" alt="Website" /></a>
 <a href="https://chatadv.com.br"><img src="https://img.shields.io/badge/ChatADV-111111?style=for-the-badge&logo=googlechrome&logoColor=0ADB7A" alt="ChatADV" /></a>
-<a href="mailto:contato@paulosdantas.adv.br"><img src="https://img.shields.io/badge/Email-10A861?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
+<a href="mailto:contato@paulosdantas.adv.br"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=maildotru&logoColor=0ADB7A" alt="Email" /></a>
 
 </div>
 
