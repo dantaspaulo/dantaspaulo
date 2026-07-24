@@ -105,12 +105,12 @@ em projetos de terceiros.
 
 <div align="center">
 
-<img src="./profile-summary-card-output/merko/2-most-commit-language.svg" height="200" alt="Linguagens por commits" />
-<img src="./profile-summary-card-output/merko/1-repos-per-language.svg" height="200" alt="Linguagens por repositório" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dantaspaulo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400&bg_color=0D1117&title_color=0ADB7A&icon_color=10A861&text_color=C9D1D9" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantaspaulo&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400&bg_color=0D1117&title_color=0ADB7A&text_color=C9D1D9" alt="Top Languages" />
 
 <br/>
 
-<img src="./profile-summary-card-output/merko/4-productive-time.svg" width="72%" alt="Horário produtivo" />
+<img src="https://streak-stats.demolab.com?user=dantaspaulo&hide_border=true&background=0D1117&stroke=0ADB7A&ring=10A861&fire=0ADB7A&currStreakLabel=0ADB7A&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" />
 
 </div>
 
