@@ -105,12 +105,12 @@ em projetos de terceiros.
 
 <div align="center">
 
-<img src="./profile-summary-card-output/vue_dark/0-profile-details.svg" width="82%" alt="Resumo do perfil" />
+<img src="./profile-summary-card-output/merko/2-most-commit-language.svg" height="200" alt="Linguagens por commits" />
+<img src="./profile-summary-card-output/merko/1-repos-per-language.svg" height="200" alt="Linguagens por repositório" />
 
 <br/>
 
-<img src="./profile-summary-card-output/vue_dark/1-repos-per-language.svg" height="200" alt="Linguagens por repositório" />
-<img src="./profile-summary-card-output/vue_dark/4-productive-time.svg" height="200" alt="Horário produtivo" />
+<img src="./profile-summary-card-output/merko/4-productive-time.svg" width="72%" alt="Horário produtivo" />
 
 </div>
 
