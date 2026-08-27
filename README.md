@@ -7,7 +7,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ADB7A,100:10A861&height=200&section=header&text=Paulo%20S%C3%A9rgio%20Dantas&fontColor=000000&fontSize=44&fontAlignY=36&desc=Forward%20Deployed%20Engineer%20%C2%B7%20IA%20ag%C3%AAntica%20em%20produ%C3%A7%C3%A3o&descAlignY=58&descColor=000000&descSize=17" width="100%" alt="Paulo Sérgio Dantas" />
 
 <a href="https://www.readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=0ADB7A&center=true&vCenter=true&width=660&lines=IA+que+sai+do+slide+e+entra+na+opera%C3%A7%C3%A3o;IA+ag%C3%AAntica+aut%C3%B4noma+em+produ%C3%A7%C3%A3o;Advogado+e+engenheiro.+FDE+Legal;Do+problema+ao+sistema+rodando" alt="" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=0ADB7A&center=true&vCenter=true&width=660&lines=IA+que+sai+do+slide+e+entra+na+opera%C3%A7%C3%A3o;IA+ag%C3%AAntica+aut%C3%B4noma+em+produ%C3%A7%C3%A3o;Do+problema+ao+sistema+rodando;Engenheiro+de+resultado" alt="" />
 </a>
 
 <br/>
@@ -30,24 +30,34 @@
 
 <table align="center">
 <tr>
-<td width="50%" align="center">
+<td width="33%" align="center" valign="top">
 
 ### 🏢 Empresas
 Gente boa presa em trabalho repetitivo.
 <br/><br/>
 Automatizo o trecho de maior impacto, conectado ao que você já usa.
 <br/><br/>
-<sub>Sem trocar de ERP. Sem trocar de CRM. Sem parar.</sub>
+<sub>Sem trocar de ERP. Sem parar a operação.</sub>
 
 </td>
-<td width="50%" align="center">
+<td width="33%" align="center" valign="top">
 
-### ⚖️ Escritórios
+### 🚀 Produtos
+Ideia validada e ninguém para construir.
+<br/><br/>
+API, web e infraestrutura. O produto inteiro, do zero ao ar.
+<br/><br/>
+<sub>Já entreguei os três lados do mesmo sistema.</sub>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### ⚖️ Jurídico
 Advogado de formação, engenheiro na prática.
 <br/><br/>
-IA que lê documento, ajuda a redigir e conversa com o Judiciário.
+IA que lê documento, ajuda a redigir e fala com o Judiciário.
 <br/><br/>
-<sub>Com sigilo, com trava e com o cuidado que a profissão exige.</sub>
+<sub>Falo os dois idiomas. É meu diferencial, não meu limite.</sub>
 
 </td>
 </tr>
@@ -84,35 +94,67 @@ em turno contínuo, e prestam contas do que fizeram.
 
 <div align="center">
 
-## 🔁 Como funciona
+## 🔁 Como funciona um projeto
 
-</div>
+<table>
+<tr>
+<td align="center" width="16%">
 
-```mermaid
-flowchart LR
-    A["🔍<br/>Descoberta"] --> B["🎯<br/>Alvo de<br/>alto impacto"]
-    B --> C["⚡<br/>Protótipo<br/>em semanas"]
-    C --> D["🚀<br/>Produção"]
-    D --> E["📊<br/>Medição"]
-    E --> F["♻️<br/>Vira padrão"]
-    F -.->|próximo caso sai mais barato| B
+`1`
+<br/>🔍<br/>
+**Descoberta**
+<br/><sub>entendo a operação, o gargalo e o custo</sub>
 
-    style A fill:#0ADB7A,stroke:#10A861,color:#000
-    style B fill:#0ADB7A,stroke:#10A861,color:#000
-    style C fill:#0ADB7A,stroke:#10A861,color:#000
-    style D fill:#10A861,stroke:#0ADB7A,color:#000
-    style E fill:#10A861,stroke:#0ADB7A,color:#000
-    style F fill:#10A861,stroke:#0ADB7A,color:#000
-```
+</td>
+<td align="center" width="16%">
 
-<div align="center">
+`2`
+<br/>🎯<br/>
+**Alvo**
+<br/><sub>um caso de alto impacto, não dez de baixo</sub>
+
+</td>
+<td align="center" width="16%">
+
+`3`
+<br/>⚡<br/>
+**Protótipo**
+<br/><sub>em semanas, não em trimestres</sub>
+
+</td>
+<td align="center" width="16%">
+
+`4`
+<br/>🚀<br/>
+**Produção**
+<br/><sub>software no ar, usado de verdade</sub>
+
+</td>
+<td align="center" width="16%">
+
+`5`
+<br/>📊<br/>
+**Medição**
+<br/><sub>antes e depois, com número</sub>
+
+</td>
+<td align="center" width="16%">
+
+`6`
+<br/>♻️<br/>
+**Padrão**
+<br/><sub>o próximo caso sai mais barato</sub>
+
+</td>
+</tr>
+</table>
 
 | Um fornecedor recebe | Um **FDE** recebe |
 |:---:|:---:|
 | "Construa essa funcionalidade." | **"Resolva esse problema."** |
 
 <sub><b>Forward Deployed Engineer:</b> engenheiro embarcado na sua operação.
-Papel criado na Palantir, hoje área própria na OpenAI, inclusive no jurídico.</sub>
+Papel criado na Palantir, hoje área própria em empresas de IA como a OpenAI.</sub>
 
 </div>
 
@@ -120,22 +162,20 @@ Papel criado na Palantir, hoje área própria na OpenAI, inclusive no jurídico.
 
 <div align="center">
 
-## ⚖️ FDE Legal
+## 🧩 O que eu construo
 
 <table>
 <tr>
-<td align="center" width="33%">📄<br/><b>Análise de<br/>documentos</b><br/><sub>acervo grande, OCR difícil</sub></td>
-<td align="center" width="33%">✍️<br/><b>Redação<br/>de peças</b><br/><sub>no padrão do escritório</sub></td>
-<td align="center" width="33%">🔎<br/><b>Jurisprudência</b><br/><sub>busca na sua base</sub></td>
+<td align="center" width="33%">🤖<br/><b>Agentes autônomos</b><br/><sub>tarefa de ponta a ponta, sem alguém digitando</sub></td>
+<td align="center" width="33%">⚙️<br/><b>Automação de processo</b><br/><sub>esteira que roda sozinha, com exceção tratada</sub></td>
+<td align="center" width="33%">📄<br/><b>Análise de documentos</b><br/><sub>acervo grande, OCR difícil, extração confiável</sub></td>
 </tr>
 <tr>
-<td align="center">🗂️<br/><b>Processos<br/>e prazos</b><br/><sub>DataJud e DJEN, do CNJ</sub></td>
-<td align="center">🛡️<br/><b>Sigilo<br/>e travas</b><br/><sub>isolamento entre clientes</sub></td>
-<td align="center">🔗<br/><b>Sistemas<br/>que você já usa</b><br/><sub>sem trocar tudo</sub></td>
+<td align="center">🔎<br/><b>Busca semântica</b><br/><sub>resposta na sua base, não na internet</sub></td>
+<td align="center">🔗<br/><b>Integrações</b><br/><sub>ERP, CRM, gateway, API pública e sistema legado</sub></td>
+<td align="center">🧱<br/><b>Produto completo</b><br/><sub>API, web e infraestrutura na mesma entrega</sub></td>
 </tr>
 </table>
-
-<sub>Falar os dois idiomas evita o erro mais caro: automatizar com perfeição a etapa que não era o gargalo.</sub>
 
 </div>
 
@@ -143,9 +183,26 @@ Papel criado na Palantir, hoje área própria na OpenAI, inclusive no jurídico.
 
 <div align="center">
 
-## 🚀 Produtos e trabalho
+## 🏗️ Onde eu já entreguei
+
+<table>
+<tr>
+<td align="center" width="25%"><b>Via Cometa</b><br/><sub>agente de IA<br/>para consórcio</sub></td>
+<td align="center" width="25%"><b>Revizia</b><br/><sub>automação<br/>comercial</sub></td>
+<td align="center" width="25%"><b>Olho Vivo</b><br/><sub>API e web,<br/>produto completo</sub></td>
+<td align="center" width="25%"><b>Potirejos</b><br/><sub>API, web<br/>e infraestrutura</sub></td>
+</tr>
+<tr>
+<td align="center"><b>RN Seguro</b><br/><sub>plataforma de<br/>segurança urbana</sub></td>
+<td align="center"><b>Arthur IA</b><br/><sub>produto de IA<br/>sob medida</sub></td>
+<td align="center"><b>Nyxia</b><br/><sub>site e<br/>presença digital</sub></td>
+<td align="center"><b>+ ChatADV</b><br/><sub>produto próprio,<br/>com clientes</sub></td>
+</tr>
+</table>
 
 </div>
+
+<br/>
 
 <table>
 <tr>
@@ -171,13 +228,7 @@ Papel criado na Palantir, hoje área própria na OpenAI, inclusive no jurídico.
 </table>
 
 <div align="center">
-
-**Implantações em cliente**
-
-`Via Cometa` · `Revizia` · `Olho Vivo` · `Potirejos` · `RN Seguro` · `Arthur IA` · `Nyxia`
-
 <sub>46 repositórios entre a minha conta e a organização do ChatADV. A maior parte é privada.</sub>
-
 </div>
 
 <br/>
@@ -209,11 +260,7 @@ Papel criado na Palantir, hoje área própria na OpenAI, inclusive no jurídico.
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 
-</div>
-
 <br/>
-
-<div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=dantaspaulo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400&bg_color=0D1117&title_color=0ADB7A&icon_color=10A861&text_color=C9D1D9" alt="GitHub Stats" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantaspaulo&layout=compact&hide_border=true&langs_count=6&cache_seconds=86400&bg_color=0D1117&title_color=0ADB7A&text_color=C9D1D9" alt="Top Languages" />
