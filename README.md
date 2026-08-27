@@ -183,52 +183,52 @@ Papel criado na Palantir, hoje área própria em empresas de IA como a OpenAI.</
 
 <div align="center">
 
-## 🏗️ Onde eu já entreguei
+## 🏗️ Produtos e projetos
 
 <table>
 <tr>
-<td align="center" width="25%"><b>Via Cometa</b><br/><sub>agente de IA<br/>para consórcio</sub></td>
-<td align="center" width="25%"><b>Revizia</b><br/><sub>automação<br/>comercial</sub></td>
-<td align="center" width="25%"><b>Olho Vivo</b><br/><sub>API e web,<br/>produto completo</sub></td>
-<td align="center" width="25%"><b>Potirejos</b><br/><sub>API, web<br/>e infraestrutura</sub></td>
-</tr>
-<tr>
-<td align="center"><b>RN Seguro</b><br/><sub>plataforma de<br/>segurança urbana</sub></td>
-<td align="center"><b>Arthur IA</b><br/><sub>produto de IA<br/>sob medida</sub></td>
-<td align="center"><b>Nyxia</b><br/><sub>site e<br/>presença digital</sub></td>
-<td align="center"><b>+ ChatADV</b><br/><sub>produto próprio,<br/>com clientes</sub></td>
-</tr>
-</table>
+<td align="center" width="33%">
 
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[ChatADV](https://chatadv.com.br)** · IA para advogados
-<br/><sub>Análise de documentos, geração de peças, jurisprudência e agentes. No ar, com clientes.</sub>
-
-**[PostADV](https://postadv.com.br)** · conteúdo para advocacia
-<br/><sub>Presença digital para escritórios e advogados.</sub>
+**[ChatADV](https://chatadv.com.br)**
+<br/><sub>IA para advogados: documentos,<br/>peças, jurisprudência e agentes</sub>
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-**[skills-datajud-djen](https://github.com/ChatADV/skills-datajud-djen)** · público
-<br/><sub>APIs do CNJ empacotadas como habilidade de agente.</sub>
+**[PostADV](https://postadv.com.br)**
+<br/><sub>presença digital e conteúdo<br/>para a advocacia</sub>
 
-**[trypost](https://github.com/dantaspaulo/trypost)** · público
-<br/><sub>Agendamento de redes sociais, open source.</sub>
+</td>
+<td align="center" width="33%">
+
+**[TryPost](https://github.com/dantaspaulo/trypost)**
+<br/><sub>agendamento de redes sociais,<br/>open source</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**Qwize**
+
+</td>
+<td align="center">
+
+**Delta Academy**
+
+</td>
+<td align="center">
+
+**Iot AI**
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+<sub>Aberto no GitHub: <a href="https://github.com/ChatADV/skills-datajud-djen"><b>skills-datajud-djen</b></a>, as APIs do CNJ empacotadas como habilidade de agente.</sub>
+
 <sub>46 repositórios entre a minha conta e a organização do ChatADV. A maior parte é privada.</sub>
+
 </div>
 
 <br/>
