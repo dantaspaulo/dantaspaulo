@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="1004" viewBox="0 0 860 1004" role="img" aria-label="Cases: ChatADV, 1 mi+ peças jurídicas geradas; Radar Legal, 707/707 leituras auditadas com o trecho literal conferido na decisão; PostADV, OAB ✓ cada post conferido com o Provimento 205 antes de sair; Agente de vendas, 2 dias do início ao agente integrado ao Salesforce; SDR no WhatsApp, 1º dia agente no ar, com CRM, agenda e follow-up em 5 toques; AI Planta, IoT + IA do sensor à recomendação, plataforma feita do zero; AiVets, 100 mil+ páginas de literatura por trás de cada resposta; SabIA, 19 agentes especializados numa plataforma só">
+<title>Cases: ChatADV, 1 mi+ peças jurídicas geradas; Radar Legal, 707/707 leituras auditadas com o trecho literal conferido na decisão; PostADV, OAB ✓ cada post conferido com o Provimento 205 antes de sair; Agente de vendas, 2 dias do início ao agente integrado ao Salesforce; SDR no WhatsApp, 1º dia agente no ar, com CRM, agenda e follow-up em 5 toques; AI Planta, IoT + IA do sensor à recomendação, plataforma feita do zero; AiVets, 100 mil+ páginas de literatura por trás de cada resposta; SabIA, 19 agentes especializados numa plataforma só</title>
+<style>
+.up{opacity:0;animation:up .9s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.run{stroke-dasharray:9 91;animation:run 7s linear infinite}
+@keyframes run{to{stroke-dashoffset:-100}}
+.shine{animation:shine 8s ease-in-out infinite}
+@keyframes shine{0%,72%{transform:translateX(-420px)}100%{transform:translateX(1300px)}}
+.ln{stroke-dasharray:100;stroke-dashoffset:100;animation:ln 1.4s ease forwards}
+@keyframes ln{to{stroke-dashoffset:0}}
+.emo{font:22px 'Apple Color Emoji','Segoe UI Emoji','Noto Color Emoji',sans-serif}
+.ct{font:700 21px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F1ECE3}
+.cs{font:500 13px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#A39A8A}
+.cp{font:700 10.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:1.3px;fill:#D6BD8F}
+.cn{font:400 50px Georgia,'Times New Roman',serif;fill:url(#g)}
+.cl{font:500 14px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#CFC6B6}
+.cf{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#8F8778}
+.nn{font:400 46px Georgia,'Times New Roman',serif;fill:url(#g)}
+.nl{font:500 13.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#CFC6B6}
+.mk{font:400 20px Georgia,'Times New Roman',serif;fill:#D6BD8F}
+.mt{font:700 16px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F1ECE3}
+.ms{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#A39A8A}
+.gt{font:700 13.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F1ECE3}
+.pt{font:700 14.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F1ECE3}
+.ps{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#A39A8A}
+.at{font:700 16px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F1ECE3}
+.as{font:500 12px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#A39A8A}
+.ap{font:700 9.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:1.2px;fill:#D6BD8F}
+.al{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#CFC6B6}
+</style>
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E2CDA4"/><stop offset="1" stop-color="#8C7148"/></linearGradient>
+<linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#F1E3C4" stop-opacity="0"/><stop offset=".5" stop-color="#F1E3C4" stop-opacity=".09"/><stop offset="1" stop-color="#F1E3C4" stop-opacity="0"/></linearGradient>
+</defs>
+<g transform="translate(0,0)"><rect x="1" y="1" width="418" height="234" rx="16" fill="#151310" stroke="#2A2723"/>
+<clipPath id="cc0"><rect x="1" y="1" width="418" height="234" rx="16"/></clipPath>
+<g clip-path="url(#cc0)"><g class="shine"><rect x="0" y="-20" width="150" height="276" fill="url(#sh)" transform="skewX(-18)"/></g></g>
+<rect class="run" x="1" y="1" width="418" height="234" rx="16" fill="none" stroke="url(#g)" stroke-width="1.6" pathLength="100"/>
+<rect x="22" y="22" width="40" height="40" rx="11" fill="#1F1C18" stroke="#2A2723"/>
+<text class="emo" x="42" y="50" text-anchor="middle">⚖️</text>
+<text class="ct" x="76" y="40">ChatADV</text>
+<text class="cs" x="76" y="59">IA para advogados</text>
+<rect x="265.0" y="22" width="133.0" height="22" rx="11.0" fill="#1F1C18" stroke="#3A352E"/><text class="cp" x="331.5" y="37.0" text-anchor="middle">PRODUTO PRÓPRIO</text>
+<g class="up" style="animation-delay:0.10s"><text class="cn" x="22" y="138">1 mi+</text></g>
+<g class="up" style="animation-delay:0.35s"><text class="cl" x="24" y="166" text-anchor="start">peças jurídicas geradas</text></g>
+<line class="ln" x1="24" y1="196" x2="396" y2="196" stroke="#2A2723" pathLength="100" style="animation-delay:0.50s"/>
+<g class="up" style="animation-delay:0.60s"><text class="cf" x="24" y="219">API, web, RAG e agentes · −95% de nuvem</text></g></g><g transform="translate(440,0)"><rect x="1" y="1" width="418" height="234" rx="16" fill="#151310" stroke="#2A2723"/>
+<clipPath id="cc1"><rect x="1" y="1" width="418" height="234" rx="16"/></clipPath>
+<g clip-path="url(#cc1)"><g class="shine"><rect x="0" y="-20" width="150" height="276" fill="url(#sh)" transform="skewX(-18)"/></g></g>
+<rect class="run" x="1" y="1" width="418" height="234" rx="16" fill="none" stroke="url(#g)" stroke-width="1.6" pathLength="100"/>
+<rect x="22" y="22" width="40" height="40" rx="11" fill="#1F1C18" stroke="#2A2723"/>
+<text class="emo" x="42" y="50" text-anchor="middle">📡</text>
+<text class="ct" x="76" y="40">Radar Legal</text>
+<text class="cs" x="76" y="59">a posição do juiz, com a prova</text>
+<rect x="265.0" y="22" width="133.0" height="22" rx="11.0" fill="#1F1C18" stroke="#3A352E"/><text class="cp" x="331.5" y="37.0" text-anchor="middle">PRODUTO PRÓPRIO</text>
+<g class="up" style="animation-delay:0.35s"><text class="cn" x="22" y="138">707/707</text></g>
+<g class="up" style="animation-delay:0.60s"><text class="cl" x="24" y="166" text-anchor="start">leituras auditadas com o trecho</text><text class="cl" x="24" y="185" text-anchor="start">literal conferido na decisão</text></g>
+<line class="ln" x1="24" y1="196" x2="396" y2="196" stroke="#2A2723" pathLength="100" style="animation-delay:0.75s"/>
+<g class="up" style="animation-delay:0.85s"><text class="cf" x="24" y="219">lei, tese ou processo monitorado</text></g></g><g transform="translate(0,256)"><rect x="1" y="1" width="418" height="234" rx="16" fill="#151310" stroke="#2A2723"/>
+<clipPath id="cc2"><rect x="1" y="1" width="418" height="234" rx="16"/></clipPath>
+<g clip-path="url(#cc2)"><g class="shine"><rect x="0" y="-20" width="150" height="276" fill="url(#sh)" transform="skewX(-18)"/></g></g>
+<rect class="run" x="1" y="1" width="418" height="234" rx="16" fill="none" stroke="url(#g)" stroke-width="1.6" pathLength="100"/>
+<rect x="22" y="22" width="40" height="40" rx="11" fill="#1F1C18" stroke="#2A2723"/>
+<text class="emo" x="42" y="50" text-anchor="middle">📣</text>
+<text class="ct" x="76" y="40">PostADV</text>
+<text class="cs" x="76" y="59">marketing jurídico com IA</text>
+<rect x="265.0" y="22" width="133.0" height="22" rx="11.0" fill="#1F1C18" stroke="#3A352E"/><text class="cp" x="331.5" y="37.0" text-anchor="middle">PRODUTO PRÓPRIO</text>
+<g class="up" style="animation-delay:0.20s"><text class="cn" x="22" y="138">OAB ✓</text></g>
+<g class="up" style="animation-delay:0.45s"><text class="cl" x="24" y="166" text-anchor="start">cada post conferido com o</text><text class="cl" x="24" y="185" text-anchor="start">Provimento 205 antes de sair</text></g>
+<line class="ln" x1="24" y1="196" x2="396" y2="196" stroke="#2A2723" pathLength="100" style="animation-delay:0.60s"/>
+<g class="up" style="animation-delay:0.70s"><text class="cf" x="24" y="219">gera, agenda e publica nas redes</text></g></g><g transform="translate(440,256)"><rect x="1" y="1" width="418" height="234" rx="16" fill="#151310" stroke="#2A2723"/>
+<clipPath id="cc3"><rect x="1" y="1" width="418" height="234" rx="16"/></clipPath>
+<g clip-path="url(#cc3)"><g class="shine"><rect x="0" y="-20" width="150" height="276" fill="url(#sh)" transform="skewX(-18)"/></g></g>
+<rect class="run" x="1" y="1" width="418" height="234" rx="16" fill="none" stroke="url(#g)" stroke-width="1.6" pathLength="100"/>
+<rect x="22" y="22" width="40" height="40" rx="11" fill="#1F1C18" stroke="#2A2723"/>
+<text class="emo" x="42" y="50" text-anchor="middle">🏍️</text>
+<text class="ct" x="76" y="40">Agente de vendas</text>
+<text class="cs" x="76" y="59">rede de concessionárias</text>
+<rect x="279.8" y="22" width="118.2" height="22" rx="11.0" fill="#1F1C18" stroke="#3A352E"/><text class="cp" x="338.9" y="37.0" text-anchor="middle">DELTA ACADEMY</text>
+<g class="up" style="animation-delay:0.45s"><text class="cn" x="22" y="138">2 dias</text></g>
+<g class="up" style="animation-delay:0.70s"><text class="cl" x="24" y="166" text-anchor="start">do início ao agente</text><text class="cl" x="24" y="185" text-anchor="start">integrado ao Salesforce</text></g>
+<line class="ln" x1="24" y1="196" x2="396" y2="196" stroke="#2A2723" pathLength="100" style="animation-delay:0.85s"/>
+<g class="up" style="animation-delay:0.95s"><text class="cf" x="24" y="219">14 lojas · 201 municípios · 633 testes</text></g></g><g transform="translate(0,512)"><rect x="1" y="1" width="418" height="234" rx="16" fill="#151310" stroke="#2A2723"/>
+<clipPath id="cc4"><rect x="1" y="1" width="418" height="234" rx="16"/></clipPath>
+<g clip-path="url(#cc4)"><g class="shine"><rect x="0" y="-20" width="150" height="276" fill="url(#sh)" transform="skewX(-18)"/></g></g>
+<rect class="run" x="1" y="1" width="418" height="234" rx="16" fill="none" stroke="url(#g)" stroke-width="1.6" pathLength="100"/>
+<rect x="22" y="22" width="40" height="40" rx="11" fill="#1F1C18" stroke="#2A2723"/>
+<text class="emo" x="42" y="50" text-anchor="middle">🧾</text>
+<text class="ct" x="76" y="40">SDR no WhatsApp</text>
+<text class="cs" x="76" y="59">SaaS B2B da área fiscal</text>
+<rect x="279.8" y="22" width="118.2" height="22" rx="11.0" fill="#1F1C18" stroke="#3A352E"/><text class="cp" x="338.9" y="37.0" text-anchor="middle">DELTA ACADEMY</text>
+<g class="up" style="animation-delay:0.30s"><text class="cn" x="22" y="138">1º dia</text></g>
+<g class="up" style="animation-delay:0.55s"><text class="cl" x="24" y="166" text-anchor="start">agente no ar, com CRM,</text><text class="cl" x="24" y="185" text-anchor="start">agenda e follow-up em 5 toques</text></g>
+<line class="ln" x1="24" y1="196" x2="396" y2="196" stroke="#2A2723" pathLength="100" style="animation-delay:0.70s"/>
+<g class="up" style="animation-delay:0.80s"><text class="cf" x="24" y="219">641 testes · humano no ponto certo</text></g></g><g transform="translate(440,512)"><rect x="1" y="1" width="418" height="234" rx="16" fill="#151310" stroke="#2A2723"/>
+<clipPath id="cc5"><rect x="1" y="1" width="418" height="234" rx="16"/></clipPath>
+<g clip-path="url(#cc5)"><g class="shine"><rect x="0" y="-20" width="150" height="276" fill="url(#sh)" transform="skewX(-18)"/></g></g>
+<rect class="run" x="1" y="1" width="418" height="234" rx="16" fill="none" stroke="url(#g)" stroke-width="1.6" pathLength="100"/>
+<rect x="22" y="22" width="40" height="40" rx="11" fill="#1F1C18" stroke="#2A2723"/>
+<text class="emo" x="42" y="50" text-anchor="middle">🌱</text>
+<text class="ct" x="76" y="40">AI Planta</text>
+<text class="cs" x="76" y="59">IoT e IA no cultivo</text>
+<rect x="287.2" y="22" width="110.8" height="22" rx="11.0" fill="#1F1C18" stroke="#3A352E"/><text class="cp" x="342.6" y="37.0" text-anchor="middle">PSD SOFTWARE</text>
+<g class="up" style="animation-delay:0.55s"><text class="cn" x="22" y="138">IoT + IA</text></g>
+<g class="up" style="animation-delay:0.80s"><text class="cl" x="24" y="166" text-anchor="start">do sensor à recomendação,</text><text class="cl" x="24" y="185" text-anchor="start">plataforma feita do zero</text></g>
+<line class="ln" x1="24" y1="196" x2="396" y2="196" stroke="#2A2723" pathLength="100" style="animation-delay:0.95s"/>
+<g class="up" style="animation-delay:1.05s"><text class="cf" x="24" y="219">AGI Nanotech · API, app e nuvem</text></g></g><g transform="translate(0,768)"><rect x="1" y="1" width="418" height="234" rx="16" fill="#151310" stroke="#2A2723"/>
+<clipPath id="cc6"><rect x="1" y="1" width="418" height="234" rx="16"/></clipPath>
+<g clip-path="url(#cc6)"><g class="shine"><rect x="0" y="-20" width="150" height="276" fill="url(#sh)" transform="skewX(-18)"/></g></g>
+<rect class="run" x="1" y="1" width="418" height="234" rx="16" fill="none" stroke="url(#g)" stroke-width="1.6" pathLength="100"/>
+<rect x="22" y="22" width="40" height="40" rx="11" fill="#1F1C18" stroke="#2A2723"/>
+<text class="emo" x="42" y="50" text-anchor="middle">🐾</text>
+<text class="ct" x="76" y="40">AiVets</text>
+<text class="cs" x="76" y="59">IA para veterinários</text>
+<rect x="339.0" y="22" width="59.0" height="22" rx="11.0" fill="#1F1C18" stroke="#3A352E"/><text class="cp" x="368.5" y="37.0" text-anchor="middle">QWIZE</text>
+<g class="up" style="animation-delay:0.40s"><text class="cn" x="22" y="138">100 mil+</text></g>
+<g class="up" style="animation-delay:0.65s"><text class="cl" x="24" y="166" text-anchor="start">páginas de literatura por</text><text class="cl" x="24" y="185" text-anchor="start">trás de cada resposta</text></g>
+<line class="ln" x1="24" y1="196" x2="396" y2="196" stroke="#2A2723" pathLength="100" style="animation-delay:0.80s"/>
+<g class="up" style="animation-delay:0.90s"><text class="cf" x="24" y="219">raciocínio clínico 24 h · web e WhatsApp</text></g></g><g transform="translate(440,768)"><rect x="1" y="1" width="418" height="234" rx="16" fill="#151310" stroke="#2A2723"/>
+<clipPath id="cc7"><rect x="1" y="1" width="418" height="234" rx="16"/></clipPath>
+<g clip-path="url(#cc7)"><g class="shine"><rect x="0" y="-20" width="150" height="276" fill="url(#sh)" transform="skewX(-18)"/></g></g>
+<rect class="run" x="1" y="1" width="418" height="234" rx="16" fill="none" stroke="url(#g)" stroke-width="1.6" pathLength="100"/>
+<rect x="22" y="22" width="40" height="40" rx="11" fill="#1F1C18" stroke="#2A2723"/>
+<text class="emo" x="42" y="50" text-anchor="middle">🌿</text>
+<text class="ct" x="76" y="40">SabIA</text>
+<text class="cs" x="76" y="59">IA para consultoria ambiental</text>
+<rect x="339.0" y="22" width="59.0" height="22" rx="11.0" fill="#1F1C18" stroke="#3A352E"/><text class="cp" x="368.5" y="37.0" text-anchor="middle">QWIZE</text>
+<g class="up" style="animation-delay:0.65s"><text class="cn" x="22" y="138">19</text></g>
+<g class="up" style="animation-delay:0.90s"><text class="cl" x="24" y="166" text-anchor="start">agentes especializados</text><text class="cl" x="24" y="185" text-anchor="start">numa plataforma só</text></g>
+<line class="ln" x1="24" y1="196" x2="396" y2="196" stroke="#2A2723" pathLength="100" style="animation-delay:1.05s"/>
+<g class="up" style="animation-delay:1.15s"><text class="cf" x="24" y="219">documentos, estudos ambientais e CRM</text></g></g>
+</svg>

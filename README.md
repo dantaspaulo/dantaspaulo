@@ -26,18 +26,17 @@
 
 <br/>
 
-<table>
-<tr>
-<td align="center" width="25%" valign="top">🧭<br/><b>FDE na Delta Academy</b><br/><sub>8 clientes no último mês</sub></td>
-<td align="center" width="25%" valign="top">🧪<br/><b>FDE na QWize</b><br/><sub>mais 2 clientes</sub></td>
-<td align="center" width="25%" valign="top">⚖️<br/><b>Fundador do ChatADV</b><br/><sub>e do PostADV</sub></td>
-<td align="center" width="25%" valign="top">🏗️<br/><b>Fundador da PSD Software</b><br/><sub>agentes e automações</sub></td>
-</tr>
-</table>
+<picture>
+  <source media="(max-width: 700px)" srcset="assets/papeis-celular.svg" />
+  <img src="assets/papeis.svg" width="100%" alt="FDE na Delta Academy (8 clientes no último mês), FDE na QWize (mais 2 clientes), fundador do ChatADV e do PostADV, fundador da PSD Software" />
+</picture>
 
 <br/>
 
-<img src="assets/numeros.svg" width="100%" alt="1 mi+ peças jurídicas geradas no ChatADV · −95% no custo de nuvem · 8 clientes como FDE em um mês · 20+ anos de software" />
+<picture>
+  <source media="(max-width: 700px)" srcset="assets/numeros-celular.svg" />
+  <img src="assets/numeros.svg" width="100%" alt="1 mi+ peças jurídicas geradas no ChatADV · −95% no custo de nuvem · 8 clientes como FDE em um mês · 20+ anos de software" />
+</picture>
 
 </div>
 
@@ -51,14 +50,10 @@
 
 <br/>
 
-<a href="https://chatadv.com.br"><img src="assets/case-chatadv.svg" width="49%" alt="ChatADV: 1 mi+ peças jurídicas geradas" /></a>
-<a href="https://legalradar.com.br"><img src="assets/case-radar-legal.svg" width="49%" alt="Radar Legal: 707 de 707 leituras auditadas com a prova conferida" /></a>
-<a href="https://postadv.com.br"><img src="assets/case-postadv.svg" width="49%" alt="PostADV: cada post conferido com o Provimento 205 da OAB" /></a>
-<a href="https://paulosdantas.adv.br"><img src="assets/case-concessionarias.svg" width="49%" alt="Agente de vendas para rede de concessionárias: 2 dias até o Salesforce" /></a>
-<a href="https://paulosdantas.adv.br"><img src="assets/case-sdr-fiscal.svg" width="49%" alt="SDR no WhatsApp para SaaS fiscal: agente no ar no primeiro dia" /></a>
-<a href="https://www.agi-nano.tech/"><img src="assets/case-ai-planta.svg" width="49%" alt="AI Planta: IoT e IA do sensor à recomendação" /></a>
-<a href="https://aivets.com.br"><img src="assets/case-aivets.svg" width="49%" alt="AiVets: 100 mil+ páginas de literatura veterinária" /></a>
-<a href="https://iasabia.com"><img src="assets/case-sabia.svg" width="49%" alt="SabIA: 19 agentes especializados para consultoria ambiental" /></a>
+<picture>
+  <source media="(max-width: 700px)" srcset="assets/cases-celular.svg" />
+  <img src="assets/cases.svg" width="100%" alt="Cases: ChatADV, Radar Legal, PostADV, agente de vendas para rede de concessionárias, SDR no WhatsApp para SaaS fiscal, AI Planta, AiVets e SabIA" />
+</picture>
 
 </div>
 
@@ -67,17 +62,17 @@
 
 <br/>
 
-**⚖️ ChatADV** · fundador
+**⚖️ [ChatADV](https://chatadv.com.br)** · fundador
 - **Problema:** advogado perde horas em peça, leitura de processo e pesquisa; IA genérica não conhece a rotina do escritório.
 - **Solução:** API, web, RAG sobre jurisprudência e documentos, agentes. A operação é conduzida por agentes, com monitoramento em 17 etapas e deploy só com teste verde.
 - **Resultado:** 1 mi+ peças geradas. Produção levada do Google Cloud para VPS própria em uma semana: de ~R$ 6,7 mil para ~R$ 320 por mês.
 
-**📡 Radar Legal** · produto do ChatADV
+**📡 [Radar Legal](https://legalradar.com.br)** · produto do ChatADV
 - **Problema:** saber como os juízes aplicam uma lei, uma tese ou um processo exige ler milhares de decisões.
 - **Solução:** a IA lê cada decisão que cita o que você monitora e diz a posição do magistrado, sempre com o trecho literal que prova.
 - **Resultado:** auditoria de 707 leituras com a prova conferida no texto da decisão; 30 de 30 citações confirmadas por leitura humana.
 
-**📣 PostADV** · fundador
+**📣 [PostADV](https://postadv.com.br)** · fundador
 - **Problema:** a advocacia precisa de presença digital, não tem tempo e corre risco com as regras de publicidade da OAB.
 - **Solução:** IA treinada na linguagem jurídica gera carrosséis, posts e reels, agenda nas redes e confere cada peça contra o Provimento 205/2021.
 
@@ -91,14 +86,14 @@
 - **Solução:** agente SDR no WhatsApp oficial, com CRM por fila durável, follow-up em 5 toques, reunião na agenda do vendedor e passagem para uma pessoa no ponto certo.
 - **Resultado:** no ar no primeiro dia. 641 casos de teste em 18 suítes. Manual de passagem de bastão em 10 dias.
 
-**🌱 AI Planta** · AGI Nanotech, pela PSD Software
+**🌱 AI Planta** · [AGI Nanotech](https://www.agi-nano.tech/), pela PSD Software
 - **Problema:** sensores de cultivo geram dado bruto que ninguém transforma em decisão.
 - **Solução:** API, aplicativo web com painéis, séries históricas e recomendações, e infraestrutura no Google Cloud. Meu papel: arquitetura, backend, interface e infraestrutura.
 
-**🐾 AiVets** · pela QWize
+**🐾 [AiVets](https://aivets.com.br)** · pela QWize
 - Assistente de raciocínio clínico 24 horas para veterinários, na web e no WhatsApp, com respostas ancoradas em mais de 100 mil páginas de literatura.
 
-**🌿 SabIA** · pela QWize
+**🌿 [SabIA](https://iasabia.com)** · pela QWize
 - Plataforma para consultoria ambiental com 19 agentes especializados, análise de documentos com busca vetorial, estudos ambientais, CRM e assinatura.
 
 <sub>Fontes: ChatADV · faturamento do Google Cloud, 19/09 a 02/10/2026 · Delta Academy · projetos de cliente, setembro e outubro de 2026.</sub>
@@ -111,7 +106,10 @@
 
 ## 🧠 Como eu trabalho
 
-<img src="assets/metodo.svg" width="100%" alt="Entender, decompor, construir, medir" />
+<picture>
+  <source media="(max-width: 700px)" srcset="assets/metodo-celular.svg" />
+  <img src="assets/metodo.svg" width="100%" alt="Entender, decompor, construir, medir" />
+</picture>
 
 | Um fornecedor recebe | Um **FDE** recebe |
 |:---:|:---:|
@@ -119,7 +117,10 @@
 
 **Agente não é chatbot.** O que sustenta agente em produção é o governo em volta dele.
 
-<img src="assets/governo.svg" width="100%" alt="Menor privilégio, segredo isolado, pessoa no ponto certo, trava que recusa, rastro de tudo" />
+<picture>
+  <source media="(max-width: 700px)" srcset="assets/governo-celular.svg" />
+  <img src="assets/governo.svg" width="100%" alt="Menor privilégio, segredo isolado, pessoa no ponto certo, trava que recusa, rastro de tudo" />
+</picture>
 
 </div>
 
@@ -129,9 +130,12 @@
 
 ## 📦 Aberto no GitHub
 
-<a href="https://github.com/qwize-br/wize-development-kit"><img src="assets/aberto-wize.svg" width="32%" alt="Wize Development Kit" /></a>
-<a href="https://github.com/ChatADV/skills-datajud-djen"><img src="assets/aberto-datajud.svg" width="32%" alt="skills-datajud-djen" /></a>
-<a href="https://github.com/trypostit/trypost"><img src="assets/aberto-trypost.svg" width="32%" alt="TryPost" /></a>
+<picture>
+  <source media="(max-width: 700px)" srcset="assets/abertos-celular.svg" />
+  <img src="assets/abertos.svg" width="100%" alt="Aberto no GitHub: Wize Development Kit, skills-datajud-djen e TryPost" />
+</picture>
+
+<sub><a href="https://github.com/qwize-br/wize-development-kit">Wize Development Kit</a> · <a href="https://github.com/ChatADV/skills-datajud-djen">skills-datajud-djen</a> · <a href="https://github.com/trypostit/trypost">TryPost</a></sub>
 
 <sub>O resto é código de produto e de cliente: 73 dos 77 repositórios são privados (lido em 06/10/2026).</sub>
 
