@@ -91,7 +91,7 @@
 - **Solução:** API, aplicativo web com painéis, séries históricas e recomendações, e infraestrutura no Google Cloud. Meu papel: arquitetura, backend, interface e infraestrutura.
 
 **🐾 [AiVets](https://aivets.com.br)** · pela QWize
-- Assistente de raciocínio clínico 24 horas para veterinários, na web e no WhatsApp, com respostas ancoradas em mais de 100 mil páginas de literatura.
+- Assistente de raciocínio clínico 24 horas para veterinários, na web e no WhatsApp, com respostas ancoradas em mais de 100 mil páginas de literatura. Meu papel: participei do desenvolvimento.
 
 **🌿 [SabIA](https://iasabia.com)** · pela QWize
 - Plataforma para consultoria ambiental com 19 agentes especializados, análise de documentos com busca vetorial, estudos ambientais, CRM e assinatura.
