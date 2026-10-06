@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="196" viewBox="0 0 840 196" role="img" aria-label="Entender, decompor, construir, medir">
+<title>Entender, decompor, construir, medir</title>
+<style>
+.up{opacity:0;animation:up .9s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.run{stroke-dasharray:9 91;animation:run 7s linear infinite}
+@keyframes run{to{stroke-dashoffset:-100}}
+.shine{animation:shine 8s ease-in-out infinite}
+@keyframes shine{0%,72%{transform:translateX(-420px)}100%{transform:translateX(1300px)}}
+
+.k{font:400 20px Georgia,'Times New Roman',serif;fill:#D6BD8F}
+.t{font:700 16px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F1ECE3}
+.s{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#A39A8A}
+.trilho{stroke-dasharray:100;stroke-dashoffset:100;animation:trilho 9s ease-in-out infinite}
+@keyframes trilho{0%{stroke-dashoffset:100;opacity:1}75%{stroke-dashoffset:0;opacity:1}92%{stroke-dashoffset:0;opacity:1}100%{stroke-dashoffset:0;opacity:0}}
+.ponto{animation:ponto 9s ease-in-out infinite}
+@keyframes ponto{0%{transform:translateX(0);opacity:1}75%{transform:translateX(630px);opacity:1}92%{opacity:0}100%{transform:translateX(0);opacity:0}}
+@keyframes n0{0%,0%{fill:#151310;stroke:#3A352E}3%,90%{fill:#2A2216;stroke:#D6BD8F}100%{fill:#151310;stroke:#3A352E}}.n0{animation:n0 9s ease infinite}@keyframes n1{0%,24%{fill:#151310;stroke:#3A352E}28%,90%{fill:#2A2216;stroke:#D6BD8F}100%{fill:#151310;stroke:#3A352E}}.n1{animation:n1 9s ease infinite}@keyframes n2{0%,49%{fill:#151310;stroke:#3A352E}53%,90%{fill:#2A2216;stroke:#D6BD8F}100%{fill:#151310;stroke:#3A352E}}.n2{animation:n2 9s ease infinite}@keyframes n3{0%,74%{fill:#151310;stroke:#3A352E}78%,90%{fill:#2A2216;stroke:#D6BD8F}100%{fill:#151310;stroke:#3A352E}}.n3{animation:n3 9s ease infinite}</style>
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E2CDA4"/><stop offset="1" stop-color="#8C7148"/></linearGradient>
+<linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#F1E3C4" stop-opacity="0"/><stop offset=".5" stop-color="#F1E3C4" stop-opacity=".09"/><stop offset="1" stop-color="#F1E3C4" stop-opacity="0"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="838" height="194" rx="18" fill="#151310" stroke="#2A2723"/>
+<clipPath id="c"><rect x="1" y="1" width="838" height="194" rx="18"/></clipPath>
+<g clip-path="url(#c)"><g class="shine"><rect x="0" y="-20" width="150" height="236" fill="url(#sh)" transform="skewX(-18)"/></g></g>
+<rect class="run" x="1" y="1" width="838" height="194" rx="18" fill="none" stroke="url(#g)" stroke-width="1.6" pathLength="100"/>
+<line x1="105" y1="62" x2="735" y2="62" stroke="#2A2723" stroke-width="2"/>
+<line class="trilho" x1="105" y1="62" x2="735" y2="62" stroke="#D6BD8F" stroke-width="2.4" pathLength="100"/>
+<circle class="n0" cx="105" cy="62" r="22" fill="#151310" stroke="#3A352E" stroke-width="1.6"/>
+<text class="k" x="105" y="69" text-anchor="middle">1</text>
+<g class="up" style="animation-delay:0.15s"><text class="t" x="105" y="120" text-anchor="middle">Entender</text><text class="s" x="105" y="143" text-anchor="middle">a operação,</text><text class="s" x="105" y="161" text-anchor="middle">o gargalo e o custo</text></g>
+<circle class="n1" cx="315" cy="62" r="22" fill="#151310" stroke="#3A352E" stroke-width="1.6"/>
+<text class="k" x="315" y="69" text-anchor="middle">2</text>
+<g class="up" style="animation-delay:0.30s"><text class="t" x="315" y="120" text-anchor="middle">Decompor</text><text class="s" x="315" y="143" text-anchor="middle">um caso de alto impacto,</text><text class="s" x="315" y="161" text-anchor="middle">não dez de baixo</text></g>
+<circle class="n2" cx="525" cy="62" r="22" fill="#151310" stroke="#3A352E" stroke-width="1.6"/>
+<text class="k" x="525" y="69" text-anchor="middle">3</text>
+<g class="up" style="animation-delay:0.45s"><text class="t" x="525" y="120" text-anchor="middle">Construir</text><text class="s" x="525" y="143" text-anchor="middle">protótipo em semanas,</text><text class="s" x="525" y="161" text-anchor="middle">software no ar</text></g>
+<circle class="n3" cx="735" cy="62" r="22" fill="#151310" stroke="#3A352E" stroke-width="1.6"/>
+<text class="k" x="735" y="69" text-anchor="middle">4</text>
+<g class="up" style="animation-delay:0.60s"><text class="t" x="735" y="120" text-anchor="middle">Medir</text><text class="s" x="735" y="143" text-anchor="middle">antes e depois,</text><text class="s" x="735" y="161" text-anchor="middle">com número</text></g>
+<circle class="ponto" cx="105" cy="62" r="5" fill="#E2CDA4"/>
+</svg>

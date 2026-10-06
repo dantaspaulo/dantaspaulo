@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="132" viewBox="0 0 840 132" role="img" aria-label="Menor privilégio, segredo isolado, pessoa no ponto certo, trava que recusa, rastro de tudo">
+<title>Menor privilégio, segredo isolado, pessoa no ponto certo, trava que recusa, rastro de tudo</title>
+<style>
+.up{opacity:0;animation:up .9s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.run{stroke-dasharray:9 91;animation:run 7s linear infinite}
+@keyframes run{to{stroke-dashoffset:-100}}
+.shine{animation:shine 8s ease-in-out infinite}
+@keyframes shine{0%,72%{transform:translateX(-420px)}100%{transform:translateX(1300px)}}
+
+.i{font:24px 'Apple Color Emoji','Segoe UI Emoji','Noto Color Emoji',sans-serif}
+.t{font:700 13.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F1ECE3}
+@keyframes c0{0%,0%{stroke:#2A2723;fill:#151310}4%,18%{stroke:#D6BD8F;fill:#211C15}22%,100%{stroke:#2A2723;fill:#151310}}.c0{animation:c0 10s ease infinite}@keyframes c1{0%,20%{stroke:#2A2723;fill:#151310}24%,38%{stroke:#D6BD8F;fill:#211C15}42%,100%{stroke:#2A2723;fill:#151310}}.c1{animation:c1 10s ease infinite}@keyframes c2{0%,40%{stroke:#2A2723;fill:#151310}44%,58%{stroke:#D6BD8F;fill:#211C15}62%,100%{stroke:#2A2723;fill:#151310}}.c2{animation:c2 10s ease infinite}@keyframes c3{0%,60%{stroke:#2A2723;fill:#151310}64%,78%{stroke:#D6BD8F;fill:#211C15}82%,100%{stroke:#2A2723;fill:#151310}}.c3{animation:c3 10s ease infinite}@keyframes c4{0%,80%{stroke:#2A2723;fill:#151310}84%,98%{stroke:#D6BD8F;fill:#211C15}102%,100%{stroke:#2A2723;fill:#151310}}.c4{animation:c4 10s ease infinite}</style>
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E2CDA4"/><stop offset="1" stop-color="#8C7148"/></linearGradient>
+<linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#F1E3C4" stop-opacity="0"/><stop offset=".5" stop-color="#F1E3C4" stop-opacity=".09"/><stop offset="1" stop-color="#F1E3C4" stop-opacity="0"/></linearGradient>
+</defs>
+<g class="up" style="animation-delay:0.10s"><rect class="c0" x="22" y="10" width="148" height="112" rx="14" fill="#151310" stroke="#2A2723" stroke-width="1.4"/><text class="i" x="96.0" y="52" text-anchor="middle">🔐</text><text class="t" x="96.0" y="80" text-anchor="middle">Menor</text><text class="t" x="96.0" y="98" text-anchor="middle">privilégio</text></g>
+<g class="up" style="animation-delay:0.22s"><rect class="c1" x="185" y="10" width="148" height="112" rx="14" fill="#151310" stroke="#2A2723" stroke-width="1.4"/><text class="i" x="259.0" y="52" text-anchor="middle">🤐</text><text class="t" x="259.0" y="80" text-anchor="middle">Segredo</text><text class="t" x="259.0" y="98" text-anchor="middle">isolado</text></g>
+<g class="up" style="animation-delay:0.34s"><rect class="c2" x="348" y="10" width="148" height="112" rx="14" fill="#151310" stroke="#2A2723" stroke-width="1.4"/><text class="i" x="422.0" y="52" text-anchor="middle">🚦</text><text class="t" x="422.0" y="80" text-anchor="middle">Pessoa no</text><text class="t" x="422.0" y="98" text-anchor="middle">ponto certo</text></g>
+<g class="up" style="animation-delay:0.46s"><rect class="c3" x="511" y="10" width="148" height="112" rx="14" fill="#151310" stroke="#2A2723" stroke-width="1.4"/><text class="i" x="585.0" y="52" text-anchor="middle">🧪</text><text class="t" x="585.0" y="80" text-anchor="middle">Trava que</text><text class="t" x="585.0" y="98" text-anchor="middle">recusa</text></g>
+<g class="up" style="animation-delay:0.58s"><rect class="c4" x="674" y="10" width="148" height="112" rx="14" fill="#151310" stroke="#2A2723" stroke-width="1.4"/><text class="i" x="748.0" y="52" text-anchor="middle">📋</text><text class="t" x="748.0" y="80" text-anchor="middle">Rastro</text><text class="t" x="748.0" y="98" text-anchor="middle">de tudo</text></g>
+</svg>
