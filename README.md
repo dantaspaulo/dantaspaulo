@@ -1,28 +1,29 @@
 <!-- ╭──────────────────────────────────────────────────────────╮ -->
 <!-- │  Paulo Sérgio Dantas · github.com/dantaspaulo            │ -->
+<!-- │  Posicionamento: paulosdantas.adv.br                     │ -->
 <!-- ╰──────────────────────────────────────────────────────────╯ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ADB7A,100:10A861&height=200&section=header&text=Paulo%20S%C3%A9rgio%20Dantas&fontColor=000000&fontSize=44&fontAlignY=36&desc=Forward%20Deployed%20Engineer%20%C2%B7%20IA%20ag%C3%AAntica%20em%20produ%C3%A7%C3%A3o&descAlignY=58&descColor=000000&descSize=17" width="100%" alt="Paulo Sérgio Dantas" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E2CDA4,100:B8995F&height=200&section=header&text=Paulo%20S%C3%A9rgio%20Dantas&fontColor=14110C&fontSize=44&fontAlignY=36&desc=constr%C3%B3i%20neg%C3%B3cios%20com%20IA&descAlignY=58&descColor=14110C&descSize=19" width="100%" alt="Paulo Sérgio Dantas constrói negócios com IA" />
 
-<a href="https://www.readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=0ADB7A&center=true&vCenter=true&width=660&lines=IA+que+sai+do+slide+e+entra+na+opera%C3%A7%C3%A3o;IA+ag%C3%AAntica+aut%C3%B4noma+em+produ%C3%A7%C3%A3o;Do+problema+ao+sistema+rodando;Engenheiro+de+resultado" alt="" />
+<a href="https://paulosdantas.adv.br">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1300&color=B08D57&center=true&vCenter=true&width=680&lines=IA+do+diagn%C3%B3stico+ao+resultado+medido;Empres%C3%A1rio+%C2%B7+Forward+Deployed+Engineer+%C2%B7+Advogado;Do+problema+de+neg%C3%B3cio+ao+sistema+no+ar" alt="" />
 </a>
 
 <br/>
 
-<a href="mailto:contato@paulosdantas.adv.br"><img src="https://img.shields.io/badge/FALAR%20COMIGO-0ADB7A?style=for-the-badge&logo=maildotru&logoColor=111111" alt="Falar comigo" /></a>
-<a href="https://paulosdantas.adv.br"><img src="https://img.shields.io/badge/Site-111111?style=for-the-badge&logo=googlechrome&logoColor=0ADB7A" alt="Site" /></a>
-<a href="https://chatadv.com.br"><img src="https://img.shields.io/badge/ChatADV-111111?style=for-the-badge&logo=googlechrome&logoColor=0ADB7A" alt="ChatADV" /></a>
-<img src="https://img.shields.io/badge/Natal%20%C2%B7%20BR-111111?style=for-the-badge&logo=googlemaps&logoColor=0ADB7A" alt="Natal" />
+<a href="https://paulosdantas.adv.br"><img src="https://img.shields.io/badge/paulosdantas.adv.br-D6BD8F?style=for-the-badge&logo=googlechrome&logoColor=14110C" alt="Site" /></a>
+<a href="https://www.linkedin.com/in/paulosdantas/"><img src="https://img.shields.io/badge/LinkedIn-1B1916?style=for-the-badge&logo=linkedin&logoColor=D6BD8F" alt="LinkedIn" /></a>
+<a href="mailto:contato@paulosdantas.adv.br"><img src="https://img.shields.io/badge/E--mail-1B1916?style=for-the-badge&logo=gmail&logoColor=D6BD8F" alt="E-mail" /></a>
+<a href="https://meet.paulosdantas.adv.br/"><img src="https://img.shields.io/badge/Caf%C3%A9%20virtual-1B1916?style=for-the-badge&logo=googlemeet&logoColor=D6BD8F" alt="Agendar um café virtual" /></a>
+<img src="https://img.shields.io/badge/Natal%2FRN%20%C2%B7%20viajo%20at%C3%A9%20o%20cliente-1B1916?style=for-the-badge&logo=googlemaps&logoColor=D6BD8F" alt="Natal/RN, disponível para viajar" />
 
 <br/><br/>
 
-### Sua empresa já tem IA. O que falta é ela funcionando na operação.
+**Entendo a dor da empresa e proponho soluções acessíveis e escaláveis,<br/>com IA do diagnóstico ao resultado medido.**
 
-**Eu faço essa ponte.** Entro na operação, acho onde a IA paga, construo e deixo rodando.
-<br/><sub>Não entrego apresentação. Entrego software no ar.</sub>
+<sub>Empresário, Forward Deployed Engineer e advogado há 10 anos. Mais de 20 anos de software, os últimos 4 dedicados a IA generativa, LLMs e agentes.</sub>
 
 </div>
 
@@ -30,63 +31,27 @@
 
 <table align="center">
 <tr>
-<td width="33%" align="center" valign="top">
-
-### 🏢 Empresas
-Gente boa presa em trabalho repetitivo.
-<br/><br/>
-Automatizo o trecho de maior impacto, conectado ao que você já usa.
-<br/><br/>
-<sub>Sem trocar de ERP. Sem parar a operação.</sub>
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### 🚀 Produtos
-Ideia validada e ninguém para construir.
-<br/><br/>
-API, web e infraestrutura. O produto inteiro, do zero ao ar.
-<br/><br/>
-<sub>Já entreguei os três lados do mesmo sistema.</sub>
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### ⚖️ Jurídico
-Advogado de formação, engenheiro na prática.
-<br/><br/>
-IA que lê documento, ajuda a redigir e fala com o Judiciário.
-<br/><br/>
-<sub>Falo os dois idiomas. É meu diferencial, não meu limite.</sub>
-
-</td>
+<td align="center" width="25%" valign="top">🧭<br/><b>FDE na Delta Academy</b><br/><sub>8 clientes no último mês</sub></td>
+<td align="center" width="25%" valign="top">🧪<br/><b>FDE na QWize</b><br/><sub>mais 2 clientes</sub></td>
+<td align="center" width="25%" valign="top">⚖️<br/><b>Fundador do ChatADV e do PostADV</b><br/><sub>IA para advogados</sub></td>
+<td align="center" width="25%" valign="top">🏗️<br/><b>Fundador da PSD Software</b><br/><sub>agentes, automações e software</sub></td>
 </tr>
 </table>
-
-<br/>
 
 <div align="center">
 
-## 🧠 IA agêntica autônoma
-
-<img src="https://img.shields.io/badge/Hermes_Agentic-0ADB7A?style=for-the-badge&logoColor=111111" alt="Hermes Agentic" />
-
-**Agente não é chatbot.** São sistemas com papel definido que trabalham sozinhos,
-em turno contínuo, e prestam contas do que fizeram.
+## 📈 Resultado com número
 
 <table>
 <tr>
-<td align="center" width="20%">🔐<br/><b>Menor<br/>privilégio</b></td>
-<td align="center" width="20%">🤐<br/><b>Segredo<br/>isolado</b></td>
-<td align="center" width="20%">🚦<br/><b>Trilho<br/>humano</b></td>
-<td align="center" width="20%">🧪<br/><b>Trava que<br/>recusa</b></td>
-<td align="center" width="20%">📋<br/><b>Rastro<br/>de tudo</b></td>
+<td align="center" width="25%"><h3>1 mi+</h3><sub>peças jurídicas geradas no ChatADV</sub></td>
+<td align="center" width="25%"><h3>−95%</h3><sub>no custo de nuvem do ChatADV,<br/>migração feita em uma semana</sub></td>
+<td align="center" width="25%"><h3>8</h3><sub>clientes liderados como FDE<br/>em um mês</sub></td>
+<td align="center" width="25%"><h3>2 dias</h3><sub>para integrar um agente de vendas<br/>ao Salesforce</sub></td>
 </tr>
 </table>
 
-<sub>O que sustenta agente em produção não é o modelo. É o governo em volta dele.</sub>
-
-**Um engenheiro com uma frota de agentes entrega o que antes exigia um time.**
+<sub>Fontes: ChatADV · faturamento do Google Cloud, 19/09 a 02/10/2026 (de ~R$ 6,7 mil para ~R$ 320 por mês) · Delta Academy · projeto de cliente, 21 a 23/09/2026.</sub>
 
 </div>
 
@@ -94,140 +59,213 @@ em turno contínuo, e prestam contas do que fizeram.
 
 <div align="center">
 
-## 🔁 Como funciona um projeto
+## 💼 Cases
+
+<sub>Problema, solução e resultado. Quase nada disso está aberto no GitHub: é código de produto e de cliente.<br/>Cliente que não autorizou o nome aparece pelo setor.</sub>
+
+</div>
+
+### Produtos que fundei
 
 <table>
 <tr>
-<td align="center" width="16%">
+<td width="33%" valign="top">
 
-`1`
-<br/>🔍<br/>
-**Descoberta**
-<br/><sub>entendo a operação, o gargalo e o custo</sub>
+#### ⚖️ [ChatADV](https://chatadv.com.br)
+<sub>Fundador · IA para advogados</sub>
 
-</td>
-<td align="center" width="16%">
+**Problema.** Advogado perde horas em peça, leitura de processo e pesquisa, e IA genérica não conhece a rotina do escritório.
 
-`2`
-<br/>🎯<br/>
-**Alvo**
-<br/><sub>um caso de alto impacto, não dez de baixo</sub>
+**Solução.** Plataforma completa: API, web, RAG sobre jurisprudência e documentos, agentes. A operação é conduzida por agentes, com monitoramento em 17 etapas a cada 3 horas e deploy só com teste verde.
+
+**Resultado.** 1 mi+ peças geradas. Produção inteira levada do Google Cloud para VPS própria em uma semana: −95% no custo.
+
+<sub>Laravel · Next.js · Qdrant · Elasticsearch · Docker Swarm</sub>
 
 </td>
-<td align="center" width="16%">
+<td width="33%" valign="top">
 
-`3`
-<br/>⚡<br/>
-**Protótipo**
-<br/><sub>em semanas, não em trimestres</sub>
+#### 📡 [Radar Legal](https://legalradar.com.br)
+<sub>Produto do ChatADV · jurimetria com prova</sub>
 
-</td>
-<td align="center" width="16%">
+**Problema.** Escritórios, departamentos jurídicos e associações precisam saber como os juízes aplicam uma lei, uma tese ou um processo, e isso exige ler milhares de decisões.
 
-`4`
-<br/>🚀<br/>
-**Produção**
-<br/><sub>software no ar, usado de verdade</sub>
+**Solução.** A IA lê cada decisão que cita o que você monitora e diz a posição do magistrado, sempre com o trecho literal que prova. Leitura diária e alerta por e-mail.
+
+**Resultado.** Auditoria de 707 leituras: todas com a prova conferida no texto da decisão, e 30 de 30 citações confirmadas por leitura humana.
+
+<sub>Laravel · Next.js · APIs do CNJ (DataJud, DJEN) · LLMs abertos</sub>
 
 </td>
-<td align="center" width="16%">
+<td width="33%" valign="top">
 
-`5`
-<br/>📊<br/>
-**Medição**
-<br/><sub>antes e depois, com número</sub>
+#### 📣 [PostADV](https://postadv.com.br)
+<sub>Fundador · marketing jurídico com IA</sub>
 
-</td>
-<td align="center" width="16%">
+**Problema.** A advocacia precisa de presença digital, não tem tempo para produzir e corre risco com as regras de publicidade da OAB.
 
-`6`
-<br/>♻️<br/>
-**Padrão**
-<br/><sub>o próximo caso sai mais barato</sub>
+**Solução.** IA treinada na linguagem jurídica gera carrosséis, posts e reels, agenda nas redes e confere cada peça contra o Provimento 205/2021 da OAB. Feito para a semana de posts caber em 15 minutos.
+
+**Meu papel.** Produto, posicionamento e operação.
+
+<sub>Laravel · Next.js · geração de imagem e texto</sub>
 
 </td>
 </tr>
 </table>
+
+### Agentes de IA para empresas · FDE na Delta Academy
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🏍️ Agente de vendas para rede de concessionárias
+<sub>14 lojas · 201 municípios · 5 estados</sub>
+
+**Problema.** Os leads chegam pelo WhatsApp a qualquer hora. Para virar venda, cada um precisa chegar à loja e ao vendedor certos, com o contexto da conversa. Lead sem dono esfria.
+
+**Solução.**
+- agente que conversa, qualifica e simula a compra, no servidor do cliente
+- loja escolhida pela área oficial de atuação, vendedor pela fila da loja
+- lead e histórico no Salesforce, com deduplicação
+- memória por lead, com "esquecer" para a LGPD
+- base comercial versionada por release; só sobe versão ensaiada
+
+**Resultado.** Do início ao agente integrado ao Salesforce: 2 dias. 633 casos de teste automáticos e teste de mutação. Um ajuste de regra caiu de ~33 para ~5 minutos em ensaio.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧾 SDR de WhatsApp para um SaaS B2B da área fiscal
+<sub>pré-vendas que não deixa lead esfriar</sub>
+
+**Problema.** Pré-venda manual: o lead do WhatsApp esperava resposta, o follow-up era irregular e o CRM ficava incompleto.
+
+**Solução.**
+- agente SDR no WhatsApp oficial, no servidor do cliente
+- lead, etapa e campos obrigatórios no CRM, por fila durável
+- follow-up em 5 toques no horário comercial
+- reunião marcada na agenda do vendedor
+- passa para uma pessoa e fica em silêncio até o atendimento fechar
+- ciclo diário de ajuste, cada regra provada em bateria de testes
+
+**Resultado.** Agente no ar no primeiro dia. 641 casos de teste em 18 suítes, com teste de mutação. Manual de passagem de bastão entregue em 10 dias.
+
+</td>
+</tr>
+</table>
+
+### Plataformas que construí · PSD Software e QWize
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+#### 🌱 [AI Planta](https://www.agi-nano.tech/)
+<sub>AGI Nanotech · IoT e IA no cultivo</sub>
+
+**Problema.** Sensores de cultivo geram dado bruto (solo, luz, VPD, energia solar orgânica) que ninguém transforma em decisão.
+
+**Solução.** Plataforma do zero: API, aplicativo web com painéis, séries históricas e recomendações, e infraestrutura no Google Cloud.
+
+**Meu papel.** Arquitetura, backend, interface e infraestrutura.
+
+<sub>Laravel 13 · Octane · Next.js 16 · Docker Swarm · Cloud SQL</sub>
+
+</td>
+<td width="33%" valign="top">
+
+#### 🐾 [AiVets](https://aivets.com.br)
+<sub>QWize · IA para veterinários</sub>
+
+**Problema.** O veterinário decide o diagnóstico sob pressão, com a literatura espalhada e pouco tempo para pesquisar.
+
+**Solução.** Assistente de raciocínio clínico 24 horas, na web e no WhatsApp, com respostas ancoradas em mais de 100 mil páginas de artigos e livros.
+
+**Meu papel.** Forward Deployed Engineer pela QWize.
+
+<sub>RAG · WhatsApp · web</sub>
+
+</td>
+<td width="33%" valign="top">
+
+#### 🌿 [SabIA](https://iasabia.com)
+<sub>QWize · IA para consultoria ambiental</sub>
+
+**Problema.** O consultor ambiental perde horas procurando norma e referência, com estudos, documentos e clientes espalhados.
+
+**Solução.** Plataforma modular com 19 agentes especializados, análise de documentos com busca vetorial, estudos ambientais, CRM e assinatura.
+
+**Meu papel.** Engenharia pela QWize.
+
+<sub>Laravel 12 · Vue · Octane · Qdrant · Asaas</sub>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+## 📦 Aberto no GitHub
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+**[Wize Development Kit](https://github.com/qwize-br/wize-development-kit)**
+<br/><sub>Kit da QWize com 10 agentes que levam um projeto do brief ao código testado, com arquiteto de testes e pentest por IA. É o padrão de engenharia nos meus projetos.</sub>
+<br/><br/>
+<a href="https://www.npmjs.com/package/wize-dev-kit"><img src="https://img.shields.io/npm/v/wize-dev-kit?style=flat-square&color=B08D57&label=npm" alt="npm" /></a>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**[skills-datajud-djen](https://github.com/ChatADV/skills-datajud-djen)**
+<br/><sub>As APIs públicas do CNJ (DataJud e DJEN) empacotadas como habilidade de agente, com o que aprendemos em produção.</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**[TryPost](https://github.com/trypostit/trypost)**
+<br/><sub>Contribuições ao agendador de redes sociais open source: criação com IA, idioma do conteúdo e regras de escrita nos prompts.</sub>
+
+</td>
+</tr>
+</table>
+
+<sub>77 repositórios entre a minha conta e as organizações de produto e de cliente. 73 são privados (lido em 06/10/2026).</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🧠 Como eu trabalho
 
 | Um fornecedor recebe | Um **FDE** recebe |
 |:---:|:---:|
 | "Construa essa funcionalidade." | **"Resolva esse problema."** |
 
-<sub><b>Forward Deployed Engineer:</b> engenheiro embarcado na sua operação.
-Papel criado na Palantir, hoje área própria em empresas de IA como a OpenAI.</sub>
-
-</div>
+**Entender → decompor → construir → medir.** Um caso de alto impacto, não dez de baixo.
+<br/><sub>Protótipo em semanas, software no ar, número antes e depois. O próximo caso sai mais barato.</sub>
 
 <br/>
 
-<div align="center">
-
-## 🧩 O que eu construo
+**Agente não é chatbot.** O que sustenta agente em produção é o governo em volta dele:
 
 <table>
 <tr>
-<td align="center" width="33%">🤖<br/><b>Agentes autônomos</b><br/><sub>tarefa de ponta a ponta, sem alguém digitando</sub></td>
-<td align="center" width="33%">⚙️<br/><b>Automação de processo</b><br/><sub>esteira que roda sozinha, com exceção tratada</sub></td>
-<td align="center" width="33%">📄<br/><b>Análise de documentos</b><br/><sub>acervo grande, OCR difícil, extração confiável</sub></td>
-</tr>
-<tr>
-<td align="center">🔎<br/><b>Busca semântica</b><br/><sub>resposta na sua base, não na internet</sub></td>
-<td align="center">🔗<br/><b>Integrações</b><br/><sub>ERP, CRM, gateway, API pública e sistema legado</sub></td>
-<td align="center">🧱<br/><b>Produto completo</b><br/><sub>API, web e infraestrutura na mesma entrega</sub></td>
+<td align="center" width="20%">🔐<br/><b>Menor<br/>privilégio</b></td>
+<td align="center" width="20%">🤐<br/><b>Segredo<br/>isolado</b></td>
+<td align="center" width="20%">🚦<br/><b>Pessoa no<br/>ponto certo</b></td>
+<td align="center" width="20%">🧪<br/><b>Trava que<br/>recusa</b></td>
+<td align="center" width="20%">📋<br/><b>Rastro<br/>de tudo</b></td>
 </tr>
 </table>
 
-</div>
-
-<br/>
-
-<div align="center">
-
-## 🏗️ Produtos e projetos
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-**[ChatADV](https://chatadv.com.br)**
-<br/><sub>IA para advogados: documentos,<br/>peças, jurisprudência e agentes</sub>
-
-</td>
-<td align="center" width="33%">
-
-**[PostADV](https://postadv.com.br)**
-<br/><sub>presença digital e conteúdo<br/>para a advocacia</sub>
-
-</td>
-<td align="center" width="33%">
-
-**[TryPost](https://github.com/dantaspaulo/trypost)**
-<br/><sub>agendamento de redes sociais,<br/>open source</sub>
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**Qwize**
-
-</td>
-<td align="center">
-
-**Delta Academy**
-
-</td>
-<td align="center">
-
-**Iot AI**
-
-</td>
-</tr>
-</table>
-
-<sub>Aberto no GitHub: <a href="https://github.com/ChatADV/skills-datajud-djen"><b>skills-datajud-djen</b></a>, as APIs do CNJ empacotadas como habilidade de agente.</sub>
-
-<sub>46 repositórios entre a minha conta e a organização do ChatADV. A maior parte é privada.</sub>
+<sub>Claude Code com subagentes, hooks, skills e MCP · Codex · Antigravity · agentes autônomos Hermes e OpenClaw em vários clientes.</sub>
 
 </div>
 
@@ -242,28 +280,24 @@ Papel criado na Palantir, hoje área própria em empresas de IA como a OpenAI.</
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker%20Swarm-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-
-<br/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=dantaspaulo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400&bg_color=0D1117&title_color=0ADB7A&icon_color=10A861&text_color=C9D1D9" alt="GitHub Stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantaspaulo&layout=compact&hide_border=true&langs_count=6&cache_seconds=86400&bg_color=0D1117&title_color=0ADB7A&text_color=C9D1D9" alt="Top Languages" />
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
 </div>
 
@@ -279,10 +313,11 @@ Papel criado na Palantir, hoje área própria em empresas de IA como a OpenAI.</
 
 <br/>
 
-<a href="mailto:contato@paulosdantas.adv.br"><img src="https://img.shields.io/badge/contato@paulosdantas.adv.br-0ADB7A?style=for-the-badge&logo=maildotru&logoColor=111111" alt="E-mail" /></a>
+<a href="mailto:contato@paulosdantas.adv.br"><img src="https://img.shields.io/badge/contato@paulosdantas.adv.br-D6BD8F?style=for-the-badge&logo=gmail&logoColor=14110C" alt="E-mail" /></a>
+<a href="https://paulosdantas.adv.br"><img src="https://img.shields.io/badge/Curr%C3%ADculo%20e%20projetos-1B1916?style=for-the-badge&logo=googlechrome&logoColor=D6BD8F" alt="Currículo e projetos" /></a>
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10A861,100:0ADB7A&height=110&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B8995F,100:E2CDA4&height=110&section=footer" width="100%" alt="" />
 </div>
