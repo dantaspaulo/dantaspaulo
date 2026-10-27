@@ -67,7 +67,7 @@
 - **Solução:** API, web, RAG sobre jurisprudência e documentos, agentes. A operação é conduzida por agentes, com monitoramento em 17 etapas e deploy só com teste verde.
 - **Resultado:** 1 mi+ peças geradas. Produção levada do Google Cloud para VPS própria em uma semana: de ~R$ 6,7 mil para ~R$ 320 por mês.
 
-**📡 [Radar Legal](https://legalradar.com.br)** · produto do ChatADV
+**📡 [Radar Legal](https://legalradar.com.br)** · desenvolvedor
 - **Problema:** saber como os juízes aplicam uma lei, uma tese ou um processo exige ler milhares de decisões.
 - **Solução:** a IA lê cada decisão que cita o que você monitora e diz a posição do magistrado, sempre com o trecho literal que prova.
 - **Resultado:** auditoria de 707 leituras com a prova conferida no texto da decisão; 30 de 30 citações confirmadas por leitura humana.

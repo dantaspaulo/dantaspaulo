@@ -154,7 +154,7 @@ def grade(pecas, colunas, gap):
 
 CASES = [
     ("⚖️", "ChatADV", "IA para advogados", "PRODUTO PRÓPRIO", "1 mi+", ["peças jurídicas geradas"], "API, web, RAG e agentes · −95% de nuvem"),
-    ("📡", "Radar Legal", "a posição do juiz, com a prova", "PRODUTO PRÓPRIO", "707/707", ["leituras auditadas com o trecho", "literal conferido na decisão"], "lei, tese ou processo monitorado"),
+    ("📡", "Radar Legal", "a posição do juiz, com a prova", "DESENVOLVEDOR", "707/707", ["leituras auditadas com o trecho", "literal conferido na decisão"], "lei, tese ou processo monitorado"),
     ("📣", "PostADV", "marketing jurídico com IA", "PRODUTO PRÓPRIO", "OAB ✓", ["cada post conferido com o", "Provimento 205 antes de sair"], "gera, agenda e publica nas redes"),
     ("🏍️", "Agente de vendas", "rede de concessionárias", "DELTA ACADEMY", "2 dias", ["do início ao agente", "integrado ao Salesforce"], "14 lojas · 201 municípios · 633 testes"),
     ("🧾", "SDR no WhatsApp", "SaaS B2B da área fiscal", "DELTA ACADEMY", "1º dia", ["agente no ar, com CRM,", "agenda e follow-up em 5 toques"], "641 testes · humano no ponto certo"),

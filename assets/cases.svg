@@ -53,7 +53,7 @@
 <text class="emo" x="42" y="50" text-anchor="middle">📡</text>
 <text class="ct" x="76" y="40">Radar Legal</text>
 <text class="cs" x="76" y="59">a posição do juiz, com a prova</text>
-<rect x="265.0" y="22" width="133.0" height="22" rx="11.0" fill="#1F1C18" stroke="#3A352E"/><text class="cp" x="331.5" y="37.0" text-anchor="middle">PRODUTO PRÓPRIO</text>
+<rect x="279.8" y="22" width="118.2" height="22" rx="11.0" fill="#1F1C18" stroke="#3A352E"/><text class="cp" x="338.9" y="37.0" text-anchor="middle">DESENVOLVEDOR</text>
 <g class="up" style="animation-delay:0.35s"><text class="cn" x="22" y="138">707/707</text></g>
 <g class="up" style="animation-delay:0.60s"><text class="cl" x="24" y="166" text-anchor="start">leituras auditadas com o trecho</text><text class="cl" x="24" y="185" text-anchor="start">literal conferido na decisão</text></g>
 <line class="ln" x1="24" y1="196" x2="396" y2="196" stroke="#2A2723" pathLength="100" style="animation-delay:0.75s"/>
