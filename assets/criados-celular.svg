@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="427" height="748" viewBox="0 0 427 748" role="img" aria-label="Criados por mim: Reveza AI, M I T   ·   m a c O S ,   L i n u x   e   W i n d o w s; Check pré-lançamento, C l a u d e ,   C o d e x ,   C u r s o r   e   o u t r o s   ·   g r á t i s ,   c o m   a t r i b u i ç ã o; Vitrine Dev, M I T   ·   n a s c e u   d e s t e   p e r f i l; Saída do Google Cloud, M I T   ·   c o m   u m a   s k i l l   p a r a   o   C l a u d e   c o n d u z i r   a   s u a">
+<title>Criados por mim: Reveza AI, M I T   ·   m a c O S ,   L i n u x   e   W i n d o w s; Check pré-lançamento, C l a u d e ,   C o d e x ,   C u r s o r   e   o u t r o s   ·   g r á t i s ,   c o m   a t r i b u i ç ã o; Vitrine Dev, M I T   ·   n a s c e u   d e s t e   p e r f i l; Saída do Google Cloud, M I T   ·   c o m   u m a   s k i l l   p a r a   o   C l a u d e   c o n d u z i r   a   s u a</title>
+<style>
+.up{opacity:0;animation:up .9s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.run{stroke-dasharray:9 91;animation:run 7s linear infinite}
+@keyframes run{to{stroke-dashoffset:-100}}
+.shine{animation:shine 8s ease-in-out infinite}
+@keyframes shine{0%,72%{transform:translateX(-420px)}100%{transform:translateX(1300px)}}
+.ln{stroke-dasharray:100;stroke-dashoffset:100;animation:ln 1.4s ease forwards}
+@keyframes ln{to{stroke-dashoffset:0}}
+.emo{font:22px 'Apple Color Emoji','Segoe UI Emoji','Noto Color Emoji',sans-serif}
+.ct{font:700 21px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F1ECE3}
+.cs{font:500 13px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#A39A8A}
+.cp{font:700 10.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:1.3px;fill:#D6BD8F}
+.cn{font:400 50px Georgia,'Times New Roman',serif;fill:url(#g)}
+.cl{font:500 14px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#CFC6B6}
+.cf{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#8F8778}
+.nn{font:400 46px Georgia,'Times New Roman',serif;fill:url(#g)}
+.nl{font:500 13.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#CFC6B6}
+.mk{font:400 20px Georgia,'Times New Roman',serif;fill:#D6BD8F}
+.mt{font:700 16px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F1ECE3}
+.ms{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#A39A8A}
+.gt{font:700 13.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F1ECE3}
+.pt{font:700 14.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F1ECE3}
+.ps{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#A39A8A}
+.at{font:700 16px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F1ECE3}
+.as{font:500 12px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#A39A8A}
+.ap{font:700 9.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:1.2px;fill:#D6BD8F}
+.al{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#CFC6B6}
+.lt{font:700 18.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F1ECE3}
+.lr{font:500 11.5px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;fill:#A39A8A}
+</style>
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E2CDA4"/><stop offset="1" stop-color="#8C7148"/></linearGradient>
+<linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#F1E3C4" stop-opacity="0"/><stop offset=".5" stop-color="#F1E3C4" stop-opacity=".09"/><stop offset="1" stop-color="#F1E3C4" stop-opacity="0"/></linearGradient>
+</defs>
+<g transform="translate(0,0)"><rect x="1" y="1" width="425" height="176" rx="16" fill="#151310" stroke="#2A2723"/>
+<clipPath id="crr0"><rect x="1" y="1" width="425" height="176" rx="16"/></clipPath>
+<g clip-path="url(#crr0)"><g class="shine"><rect x="0" y="-20" width="150" height="218" fill="url(#sh)" transform="skewX(-18)"/></g></g>
+<rect class="run" x="1" y="1" width="425" height="176" rx="16" fill="none" stroke="url(#g)" stroke-width="1.6" pathLength="100"/>
+<rect x="20" y="20" width="40" height="40" rx="11" fill="#1F1C18" stroke="#2A2723"/>
+<text class="emo" x="40" y="48" text-anchor="middle">🔁</text>
+<text class="lt" x="74" y="38">Reveza AI</text>
+<text class="lr" x="74" y="57">dantaspaulo/reveza</text>
+<rect x="311.0" y="20" width="96.0" height="22" rx="11.0" fill="#1F1C18" stroke="#3A352E"/><text class="cp" x="359.0" y="35.0" text-anchor="middle">FERRAMENTA</text>
+<g class="up" style="animation-delay:0.10s"><text class="cl" x="22" y="96" text-anchor="start">várias contas do Claude Code revezando sozinhas:</text><text class="cl" x="22" y="116" text-anchor="start">troca antes do limite e a sessão continua</text></g>
+<line class="ln" x1="22" y1="138" x2="405" y2="138" stroke="#2A2723" pathLength="100" style="animation-delay:0.35s"/>
+<g class="up" style="animation-delay:0.45s"><text class="cf" x="22" y="161">MIT · macOS, Linux e Windows</text></g></g><g transform="translate(0,190)"><rect x="1" y="1" width="425" height="176" rx="16" fill="#151310" stroke="#2A2723"/>
+<clipPath id="crr1"><rect x="1" y="1" width="425" height="176" rx="16"/></clipPath>
+<g clip-path="url(#crr1)"><g class="shine"><rect x="0" y="-20" width="150" height="218" fill="url(#sh)" transform="skewX(-18)"/></g></g>
+<rect class="run" x="1" y="1" width="425" height="176" rx="16" fill="none" stroke="url(#g)" stroke-width="1.6" pathLength="100"/>
+<rect x="20" y="20" width="40" height="40" rx="11" fill="#1F1C18" stroke="#2A2723"/>
+<text class="emo" x="40" y="48" text-anchor="middle">🛡️</text>
+<text class="lt" x="74" y="38">Check pré-lançamento</text>
+<text class="lr" x="74" y="57">dantaspaulo/check-pre-lancamento</text>
+<rect x="348.0" y="20" width="59.0" height="22" rx="11.0" fill="#1F1C18" stroke="#3A352E"/><text class="cp" x="377.5" y="35.0" text-anchor="middle">SKILL</text>
+<g class="up" style="animation-delay:0.20s"><text class="cl" x="22" y="96" text-anchor="start">20 checagens de segurança e 10 de prontidão</text><text class="cl" x="22" y="116" text-anchor="start">antes de lançar o app, com relatório e correção</text></g>
+<line class="ln" x1="22" y1="138" x2="405" y2="138" stroke="#2A2723" pathLength="100" style="animation-delay:0.45s"/>
+<g class="up" style="animation-delay:0.55s"><text class="cf" x="22" y="161">Claude, Codex, Cursor e outros · grátis, com atribuição</text></g></g><g transform="translate(0,380)"><rect x="1" y="1" width="425" height="176" rx="16" fill="#151310" stroke="#2A2723"/>
+<clipPath id="crr2"><rect x="1" y="1" width="425" height="176" rx="16"/></clipPath>
+<g clip-path="url(#crr2)"><g class="shine"><rect x="0" y="-20" width="150" height="218" fill="url(#sh)" transform="skewX(-18)"/></g></g>
+<rect class="run" x="1" y="1" width="425" height="176" rx="16" fill="none" stroke="url(#g)" stroke-width="1.6" pathLength="100"/>
+<rect x="20" y="20" width="40" height="40" rx="11" fill="#1F1C18" stroke="#2A2723"/>
+<text class="emo" x="40" y="48" text-anchor="middle">🖼️</text>
+<text class="lt" x="74" y="38">Vitrine Dev</text>
+<text class="lr" x="74" y="57">dantaspaulo/vitrine-dev-github</text>
+<rect x="340.6" y="20" width="66.4" height="22" rx="11.0" fill="#1F1C18" stroke="#3A352E"/><text class="cp" x="373.8" y="35.0" text-anchor="middle">PLUGIN</text>
+<g class="up" style="animation-delay:0.30s"><text class="cl" x="22" y="96" text-anchor="start">o Claude monta o seu perfil do GitHub com cara</text><text class="cl" x="22" y="116" text-anchor="start">de portfólio: cases animados e números com fonte</text></g>
+<line class="ln" x1="22" y1="138" x2="405" y2="138" stroke="#2A2723" pathLength="100" style="animation-delay:0.55s"/>
+<g class="up" style="animation-delay:0.65s"><text class="cf" x="22" y="161">MIT · nasceu deste perfil</text></g></g><g transform="translate(0,570)"><rect x="1" y="1" width="425" height="176" rx="16" fill="#151310" stroke="#2A2723"/>
+<clipPath id="crr3"><rect x="1" y="1" width="425" height="176" rx="16"/></clipPath>
+<g clip-path="url(#crr3)"><g class="shine"><rect x="0" y="-20" width="150" height="218" fill="url(#sh)" transform="skewX(-18)"/></g></g>
+<rect class="run" x="1" y="1" width="425" height="176" rx="16" fill="none" stroke="url(#g)" stroke-width="1.6" pathLength="100"/>
+<rect x="20" y="20" width="40" height="40" rx="11" fill="#1F1C18" stroke="#2A2723"/>
+<text class="emo" x="40" y="48" text-anchor="middle">☁️</text>
+<text class="lt" x="74" y="38">Saída do Google Cloud</text>
+<text class="lr" x="74" y="57">dantaspaulo/playbook-saida-do-google-cloud</text>
+<rect x="325.8" y="20" width="81.2" height="22" rx="11.0" fill="#1F1C18" stroke="#3A352E"/><text class="cp" x="366.4" y="35.0" text-anchor="middle">PLAYBOOK</text>
+<g class="up" style="animation-delay:0.40s"><text class="cl" x="22" y="96" text-anchor="start">11 máquinas viraram 1 servidor de preço fixo</text><text class="cl" x="22" y="116" text-anchor="start">em uma semana: 95% a menos e 14 min fora do ar</text></g>
+<line class="ln" x1="22" y1="138" x2="405" y2="138" stroke="#2A2723" pathLength="100" style="animation-delay:0.65s"/>
+<g class="up" style="animation-delay:0.75s"><text class="cf" x="22" y="161">MIT · com uma skill para o Claude conduzir a sua</text></g></g>
+</svg>

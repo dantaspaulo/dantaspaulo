@@ -17,6 +17,7 @@ AQUI = Path(__file__).parent
 SANS = "-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
 SERIF = "Georgia,'Times New Roman',serif"
 EMOJI = "'Apple Color Emoji','Segoe UI Emoji','Noto Color Emoji',sans-serif"
+MONO = "ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace"
 FUNDO, CAIXA, BORDA, BORDA2 = "#151310", "#1F1C18", "#2A2723", "#3A352E"
 TINTA, CORPO, SUAVE, APAGADO = "#F1ECE3", "#CFC6B6", "#A39A8A", "#8F8778"
 CHAMPAGNE, CLARO, ESCURO, ACESO = "#D6BD8F", "#E2CDA4", "#8C7148", "#211C15"
@@ -49,6 +50,9 @@ CSS_BASE = f"""
 .as{{font:500 12px {SANS};fill:{SUAVE}}}
 .ap{{font:700 9.5px {SANS};letter-spacing:1.2px;fill:{CHAMPAGNE}}}
 .al{{font:500 12.5px {SANS};fill:{CORPO}}}
+"""
+CSS_CRIADOS = f""".lt{{font:700 18.5px {SANS};fill:{TINTA}}}
+.lr{{font:500 11.5px {MONO};fill:{SUAVE}}}
 """
 
 DEFS = f"""<defs>
@@ -107,6 +111,20 @@ def aberto(pfx, d, icone, nome, dono, textos, rotulo_selo):
 <g class="up" {atraso(d + .2)}>{linhas("al", 18, 128, 18, textos)}</g>"""
 
 
+def criado(pfx, d, icone, nome, repo, rotulo_selo, textos, rodape):
+    """Cartão largo das ferramentas que eu criei: nome, repositório (o cartão não é clicável), o que faz e licença."""
+    w, h = 427, 178
+    return w, h, f"""{moldura(pfx, w, h)}
+<rect x="20" y="20" width="40" height="40" rx="11" fill="{CAIXA}" stroke="{BORDA}"/>
+<text class="emo" x="40" y="48" text-anchor="middle">{icone}</text>
+<text class="lt" x="74" y="38">{escape(nome)}</text>
+<text class="lr" x="74" y="57">{escape(repo)}</text>
+{selo(w - 20, 20, rotulo_selo)}
+<g class="up" {atraso(d + .1)}>{linhas("cl", 22, 96, 20, textos)}</g>
+<line class="ln" x1="22" y1="{h - 40}" x2="{w - 22}" y2="{h - 40}" stroke="{BORDA}" pathLength="100" {atraso(d + .35)}/>
+<g class="up" {atraso(d + .45)}><text class="cf" x="22" y="{h - 17}">{escape(rodape)}</text></g>"""
+
+
 def celula_numero(d, cx, numero, rotulo):
     return (
         f'<g class="up" {atraso(d)}><text class="nn" x="{cx}" y="0" text-anchor="middle">{escape(numero)}</text></g>'
@@ -163,6 +181,22 @@ CASES = [
     ("🌿", "SabIA", "IA para consultoria ambiental", "QWIZE", "19", ["agentes especializados", "numa plataforma só"], "documentos, estudos ambientais e CRM"),
 ]
 
+# Os que eu criei (28/10/2026, pedido do Paulo). Textos da descrição e do README de cada repositório, lidos em 28/10.
+CRIADOS = [
+    ("🔁", "Reveza AI", "dantaspaulo/reveza", "FERRAMENTA",
+     ["várias contas do Claude Code revezando sozinhas:", "troca antes do limite e a sessão continua"],
+     "MIT · macOS, Linux e Windows"),
+    ("🛡️", "Check pré-lançamento", "dantaspaulo/check-pre-lancamento", "SKILL",
+     ["20 checagens de segurança e 10 de prontidão", "antes de lançar o app, com relatório e correção"],
+     "Claude, Codex, Cursor e outros · grátis, com atribuição"),
+    ("🖼️", "Vitrine Dev", "dantaspaulo/vitrine-dev-github", "PLUGIN",
+     ["o Claude monta o seu perfil do GitHub com cara", "de portfólio: cases animados e números com fonte"],
+     "MIT · nasceu deste perfil"),
+    ("☁️", "Saída do Google Cloud", "dantaspaulo/playbook-saida-do-google-cloud", "PLAYBOOK",
+     ["11 máquinas viraram 1 servidor de preço fixo", "em uma semana: 95% a menos e 14 min fora do ar"],
+     "MIT · com uma skill para o Claude conduzir a sua"),
+]
+
 ABERTOS = [
     ("🧙", "Wize Development Kit", "qwize-br", ["10 agentes do brief ao código", "testado, com pentest por IA"], "QWIZE"),
     ("🏛️", "skills-datajud-djen", "ChatADV", ["APIs do CNJ (DataJud e DJEN)", "como habilidade de agente"], "CHATADV"),
@@ -199,6 +233,14 @@ def gerar_cases():
         pecas = [cartao(f"{nome[0]}{i}", (i % colunas) * .25 + (i // colunas) * .1, *c) for i, c in enumerate(CASES)]
         w, h, corpo = grade(pecas, colunas, gap)
         salvar(nome, w, h, titulo, corpo)
+
+
+def gerar_criados():
+    titulo = "Criados por mim: " + "; ".join(f"{c[1]}, {' '.join(c[5])}" for c in CRIADOS)
+    for nome, colunas, gap in (("criados", 2, 14), ("criados-celular", 1, 12)):
+        pecas = [criado(f"r{nome[-1]}{i}", (i % colunas) * .25 + (i // colunas) * .1, *c) for i, c in enumerate(CRIADOS)]
+        w, h, corpo = grade(pecas, colunas, gap)
+        salvar(nome, w, h, titulo, corpo, CSS_CRIADOS)
 
 
 def gerar_abertos():
@@ -326,6 +368,7 @@ if __name__ == "__main__":
     for velho in AQUI.glob("*.svg"):
         velho.unlink()
     gerar_cases()
+    gerar_criados()
     gerar_abertos()
     gerar_numeros()
     gerar_papeis()

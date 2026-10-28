@@ -65,7 +65,7 @@
 **⚖️ [ChatADV](https://chatadv.com.br)** · fundador
 - **Problema:** advogado perde horas em peça, leitura de processo e pesquisa; IA genérica não conhece a rotina do escritório.
 - **Solução:** API, web, RAG sobre jurisprudência e documentos, agentes. A operação é conduzida por agentes, com monitoramento em 17 etapas e deploy só com teste verde.
-- **Resultado:** 1 mi+ peças geradas. Produção levada do Google Cloud para VPS própria em uma semana: de ~R$ 6,7 mil para ~R$ 320 por mês.
+- **Resultado:** 1 mi+ peças geradas. Produção levada do Google Cloud para um servidor de preço fixo em uma semana: de ~R$ 6,7 mil para ~R$ 320 por mês ([como foi](https://github.com/dantaspaulo/playbook-saida-do-google-cloud)).
 
 **📡 [Radar Legal](https://legalradar.com.br)** · desenvolvedor
 - **Problema:** saber como os juízes aplicam uma lei, uma tese ou um processo exige ler milhares de decisões.
@@ -86,7 +86,7 @@
 - **Solução:** agente SDR no WhatsApp oficial, com CRM por fila durável, follow-up em 5 toques, reunião na agenda do vendedor e passagem para uma pessoa no ponto certo.
 - **Resultado:** no ar no primeiro dia. 641 casos de teste em 18 suítes. Manual de passagem de bastão em 10 dias.
 
-**🌱 AI Planta** · [AGI Nanotech](https://www.agi-nano.tech/), pela PSD Software
+**🌱 AI Planta** · [AGI Nanotech](https://agi-nanotech.com/), pela PSD Software
 - **Problema:** sensores de cultivo geram dado bruto que ninguém transforma em decisão.
 - **Solução:** API, aplicativo web com painéis, séries históricas e recomendações, e infraestrutura no Google Cloud. Meu papel: arquitetura, backend, interface e infraestrutura.
 
@@ -130,14 +130,27 @@
 
 ## 📦 Aberto no GitHub
 
+<sub>Criados por mim, grátis para qualquer pessoa usar.</sub>
+
+<picture>
+  <source media="(max-width: 700px)" srcset="assets/criados-celular.svg" />
+  <img src="assets/criados.svg" width="100%" alt="Criados por mim: Reveza AI, várias contas do Claude Code revezando sozinhas; Check pré-lançamento, 20 checagens de segurança e 10 de prontidão antes de lançar o app; Vitrine Dev, plugin para o Claude montar o perfil do GitHub com cara de portfólio; Saída do Google Cloud, playbook de como 11 máquinas viraram 1 servidor de preço fixo em uma semana" />
+</picture>
+
+<sub><a href="https://github.com/dantaspaulo/reveza">Reveza AI</a> · <a href="https://github.com/dantaspaulo/check-pre-lancamento">Check pré-lançamento</a> · <a href="https://github.com/dantaspaulo/vitrine-dev-github">Vitrine Dev</a> · <a href="https://github.com/dantaspaulo/playbook-saida-do-google-cloud">Saída do Google Cloud</a></sub>
+
+<br/><br/>
+
+<sub>Nas empresas e em contribuições.</sub>
+
 <picture>
   <source media="(max-width: 700px)" srcset="assets/abertos-celular.svg" />
-  <img src="assets/abertos.svg" width="100%" alt="Aberto no GitHub: Wize Development Kit, skills-datajud-djen e TryPost" />
+  <img src="assets/abertos.svg" width="100%" alt="Nas empresas e em contribuições: Wize Development Kit, skills-datajud-djen e TryPost" />
 </picture>
 
 <sub><a href="https://github.com/qwize-br/wize-development-kit">Wize Development Kit</a> · <a href="https://github.com/ChatADV/skills-datajud-djen">skills-datajud-djen</a> · <a href="https://github.com/trypostit/trypost">TryPost</a></sub>
 
-<sub>O resto é código de produto e de cliente: 73 dos 77 repositórios são privados (lido em 06/10/2026).</sub>
+<sub>O resto é código de produto e de cliente: 93 dos 102 repositórios a que tenho acesso são privados (lido em 28/10/2026).</sub>
 
 </div>
 
