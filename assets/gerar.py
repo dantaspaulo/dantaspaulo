@@ -7,7 +7,8 @@ computador (grade) e a de celular (uma coluna), trocadas no README por
 <picture><source media="(max-width: 700px)">. Fonte web não carrega dentro
 de <img>, por isso a pilha é de sistema (Georgia faz a serifada do site).
 
-Uso: python3 assets/gerar.py
+Uso: python3 assets/gerar.py && python3 assets/conferir.py
+(o conferir.py recusa texto que não cabe no cartão ou encosta no selo)
 """
 from pathlib import Path
 from xml.sax.saxutils import escape
@@ -73,7 +74,8 @@ def moldura(pfx, w, h, rx=16):
 <rect class="run" x="1" y="1" width="{w-2}" height="{h-2}" rx="{rx}" fill="none" stroke="url(#g)" stroke-width="1.6" pathLength="100"/>"""
 
 
-def selo(x_dir, y, texto, cls="cp", passo=7.4, altura=22):
+def selo(x_dir, y, texto, cls="cp", passo=7.7, altura=22):
+    # passo 7.7 (era 7.4): com 7.4, "DESENVOLVEDOR" ficava a menos de 2 px da borda da pílula (medido pelo conferir.py)
     larg = len(texto) * passo + 22
     return (
         f'<rect x="{x_dir - larg:.1f}" y="{y}" width="{larg:.1f}" height="{altura}" rx="{altura / 2}" fill="{CAIXA}" stroke="{BORDA2}"/>'

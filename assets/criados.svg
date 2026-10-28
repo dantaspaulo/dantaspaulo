@@ -43,7 +43,7 @@
 <text class="emo" x="40" y="48" text-anchor="middle">🔁</text>
 <text class="lt" x="74" y="38">Reveza AI</text>
 <text class="lr" x="74" y="57">dantaspaulo/reveza</text>
-<rect x="311.0" y="20" width="96.0" height="22" rx="11.0" fill="#1F1C18" stroke="#3A352E"/><text class="cp" x="359.0" y="35.0" text-anchor="middle">FERRAMENTA</text>
+<rect x="308.0" y="20" width="99.0" height="22" rx="11.0" fill="#1F1C18" stroke="#3A352E"/><text class="cp" x="357.5" y="35.0" text-anchor="middle">FERRAMENTA</text>
 <g class="up" style="animation-delay:0.10s"><text class="cl" x="22" y="96" text-anchor="start">várias contas do Claude Code revezando sozinhas:</text><text class="cl" x="22" y="116" text-anchor="start">troca antes do limite e a sessão continua</text></g>
 <line class="ln" x1="22" y1="138" x2="405" y2="138" stroke="#2A2723" pathLength="100" style="animation-delay:0.35s"/>
 <g class="up" style="animation-delay:0.45s"><text class="cf" x="22" y="161">MIT · macOS, Linux e Windows</text></g></g><g transform="translate(441,0)"><rect x="1" y="1" width="425" height="176" rx="16" fill="#151310" stroke="#2A2723"/>
@@ -54,7 +54,7 @@
 <text class="emo" x="40" y="48" text-anchor="middle">🛡️</text>
 <text class="lt" x="74" y="38">Check pré-lançamento</text>
 <text class="lr" x="74" y="57">dantaspaulo/check-pre-lancamento</text>
-<rect x="348.0" y="20" width="59.0" height="22" rx="11.0" fill="#1F1C18" stroke="#3A352E"/><text class="cp" x="377.5" y="35.0" text-anchor="middle">SKILL</text>
+<rect x="346.5" y="20" width="60.5" height="22" rx="11.0" fill="#1F1C18" stroke="#3A352E"/><text class="cp" x="376.8" y="35.0" text-anchor="middle">SKILL</text>
 <g class="up" style="animation-delay:0.35s"><text class="cl" x="22" y="96" text-anchor="start">20 checagens de segurança e 10 de prontidão</text><text class="cl" x="22" y="116" text-anchor="start">antes de lançar o app, com relatório e correção</text></g>
 <line class="ln" x1="22" y1="138" x2="405" y2="138" stroke="#2A2723" pathLength="100" style="animation-delay:0.60s"/>
 <g class="up" style="animation-delay:0.70s"><text class="cf" x="22" y="161">Claude, Codex, Cursor e outros · grátis, com atribuição</text></g></g><g transform="translate(0,192)"><rect x="1" y="1" width="425" height="176" rx="16" fill="#151310" stroke="#2A2723"/>
@@ -65,7 +65,7 @@
 <text class="emo" x="40" y="48" text-anchor="middle">🖼️</text>
 <text class="lt" x="74" y="38">Vitrine Dev</text>
 <text class="lr" x="74" y="57">dantaspaulo/vitrine-dev-github</text>
-<rect x="340.6" y="20" width="66.4" height="22" rx="11.0" fill="#1F1C18" stroke="#3A352E"/><text class="cp" x="373.8" y="35.0" text-anchor="middle">PLUGIN</text>
+<rect x="338.8" y="20" width="68.2" height="22" rx="11.0" fill="#1F1C18" stroke="#3A352E"/><text class="cp" x="372.9" y="35.0" text-anchor="middle">PLUGIN</text>
 <g class="up" style="animation-delay:0.20s"><text class="cl" x="22" y="96" text-anchor="start">o Claude monta o seu perfil do GitHub com cara</text><text class="cl" x="22" y="116" text-anchor="start">de portfólio: cases animados e números com fonte</text></g>
 <line class="ln" x1="22" y1="138" x2="405" y2="138" stroke="#2A2723" pathLength="100" style="animation-delay:0.45s"/>
 <g class="up" style="animation-delay:0.55s"><text class="cf" x="22" y="161">MIT · nasceu deste perfil</text></g></g><g transform="translate(441,192)"><rect x="1" y="1" width="425" height="176" rx="16" fill="#151310" stroke="#2A2723"/>
@@ -76,7 +76,7 @@
 <text class="emo" x="40" y="48" text-anchor="middle">☁️</text>
 <text class="lt" x="74" y="38">Saída do Google Cloud</text>
 <text class="lr" x="74" y="57">dantaspaulo/playbook-saida-do-google-cloud</text>
-<rect x="325.8" y="20" width="81.2" height="22" rx="11.0" fill="#1F1C18" stroke="#3A352E"/><text class="cp" x="366.4" y="35.0" text-anchor="middle">PLAYBOOK</text>
+<rect x="323.4" y="20" width="83.6" height="22" rx="11.0" fill="#1F1C18" stroke="#3A352E"/><text class="cp" x="365.2" y="35.0" text-anchor="middle">PLAYBOOK</text>
 <g class="up" style="animation-delay:0.45s"><text class="cl" x="22" y="96" text-anchor="start">11 máquinas viraram 1 servidor de preço fixo</text><text class="cl" x="22" y="116" text-anchor="start">em uma semana: 95% a menos e 14 min fora do ar</text></g>
 <line class="ln" x1="22" y1="138" x2="405" y2="138" stroke="#2A2723" pathLength="100" style="animation-delay:0.70s"/>
 <g class="up" style="animation-delay:0.80s"><text class="cf" x="22" y="161">MIT · com uma skill para o Claude conduzir a sua</text></g></g>
