@@ -19,6 +19,7 @@
 <a href="mailto:contato@paulosdantas.adv.br"><img src="https://img.shields.io/badge/E--mail-1B1916?style=for-the-badge&logo=gmail&logoColor=D6BD8F" alt="E-mail" /></a>
 <a href="https://meet.paulosdantas.adv.br/"><img src="https://img.shields.io/badge/Caf%C3%A9%20virtual-1B1916?style=for-the-badge&logo=googlemeet&logoColor=D6BD8F" alt="Agendar um café virtual" /></a>
 <img src="https://img.shields.io/badge/Natal%2FRN%20%C2%B7%20viajo%20at%C3%A9%20o%20cliente-1B1916?style=for-the-badge&logo=googlemaps&logoColor=D6BD8F" alt="Natal/RN, disponível para viajar" />
+<a href="https://claude.com/programs/startups"><img src="https://img.shields.io/badge/Claude%20Startups%20%C2%B7%20member-1B1916?style=for-the-badge&logo=claude&logoColor=D97757" alt="O ChatADV faz parte do Claude Startups, o programa de startups da Anthropic" /></a>
 
 <br/><br/>
 
@@ -62,7 +63,7 @@
 
 <br/>
 
-**⚖️ [ChatADV](https://chatadv.com.br)** · fundador
+**⚖️ [ChatADV](https://chatadv.com.br)** · fundador · membro do [Claude Startups](https://claude.com/programs/startups), o programa de startups da Anthropic
 - **Problema:** advogado perde horas em peça, leitura de processo e pesquisa; IA genérica não conhece a rotina do escritório.
 - **Solução:** um harness de IA jurídica construído por nós: o agente lê o processo inteiro, pesquisa jurisprudência com a fonte de cada julgado (RAG), calcula com a conta aberta, escreve a peça num editor e passa pela revisão de agentes de IA especialistas antes de entregar. A operação é conduzida por agentes, com monitoramento em 17 etapas e deploy só com teste verde.
 - **Resultado:** 1 mi+ peças geradas. Produção levada do Google Cloud para um servidor de preço fixo em uma semana: de ~R$ 6,7 mil para ~R$ 320 por mês ([como foi](https://github.com/dantaspaulo/playbook-saida-do-google-cloud)).
