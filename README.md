@@ -64,7 +64,7 @@
 
 **⚖️ [ChatADV](https://chatadv.com.br)** · fundador
 - **Problema:** advogado perde horas em peça, leitura de processo e pesquisa; IA genérica não conhece a rotina do escritório.
-- **Solução:** API, web, RAG sobre jurisprudência e documentos, agentes. A operação é conduzida por agentes, com monitoramento em 17 etapas e deploy só com teste verde.
+- **Solução:** um harness de IA jurídica construído por nós: o agente lê o processo inteiro, pesquisa jurisprudência com a fonte de cada julgado (RAG), calcula com a conta aberta, escreve a peça num editor e passa pela revisão de agentes de IA especialistas antes de entregar. A operação é conduzida por agentes, com monitoramento em 17 etapas e deploy só com teste verde.
 - **Resultado:** 1 mi+ peças geradas. Produção levada do Google Cloud para um servidor de preço fixo em uma semana: de ~R$ 6,7 mil para ~R$ 320 por mês ([como foi](https://github.com/dantaspaulo/playbook-saida-do-google-cloud)).
 
 **📡 [Radar Legal](https://legalradar.com.br)** · desenvolvedor
